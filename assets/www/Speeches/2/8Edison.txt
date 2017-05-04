@@ -1,0 +1,110 @@
+﻿<center><img src="./Pic/Edison.jpg"/>
+<div style="font-size:15px;">مخترع و بازرگان آمریکایی</div></center>
+<hr width="90%" color="Black">
+<spch><p>1. <span id="20801">من كار را از همان جایى كه دیگران رهایش كرده‏اند، آغاز كرده و دنبال مى‏كنم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','20801')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>2. <span id="20802">من به هیچ وجه اجازه نمی دهم كه شرایط مرا ناامید كند. سه چیز لازم برای رسیدن به یك هدف با ارزش عبارت است از : كار ، استقامت و عقل سلیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','20802')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>3. <span id="20803">نود و هشت درصد موفقیتها عرق روی پیشانی است و تنها دو درصد الهام از درون است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','20803')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>4. <span id="20804">برای پیروزی یك راه آسان وجود دارد: هیچ فرصتی را برای كار كردن از دست ندهید و اگر وقت شما كم است، وقت اختراع كنید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','20804')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>5. <span id="20805">همچون اسفنج كه آب را در بر می گیرد، شما هم اندیشه های خوب را در بر گیرید و آن را در خدمت هدف خویش قرار دهید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','20805')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>6. <span id="20806">من شكست نخورده ام، تنها هزار راه حل پیدا كرده ام كه به كار نمی آیند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','20806')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>7. <span id="20807">تمام پیشرفت های جهانگیر خود را مدیون اندیشه منظم و یادداشت برداری دقیق هستم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','20807')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>8. <span id="20808">هر پیشرفت و موفقیتی از اندیشه سرچشمه می گیرد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','20808')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>9. <span id="20809">نام نیك پیراهنی است كه هرگز كهنه نمی شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','20809')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>10. <span id="208010">افكار من بلند، اما زمان من كوتاه است. امیدوارم خود را به حدود صد سالگی برسانم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208010')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>11. <span id="208011">طعم بسیاری از شكست های زندگی را كسانی چشیده اند كه در دو قدمی كامیابی از تلاش خود دست كشیده اند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208011')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>12. <span id="208012">اگر تنها شور و شوق و عشق و علاقه را برای فرزندان خود به جای بگذاریم، سرمایه ای بزرگ به آنها داده ایم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208012')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>13. <span id="208013">در دنیا دیگر وسیله ای نیست كه بشر برای فرار از تحمل و زحمت فكر كردن، به آن متوسل نشده باشد!</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208013')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>14. <span id="208014">من هفتصد بار اشتباه نكردم، من یك بار اشتباه نكردم. من زمانی موفق شدم كه هفتصد راهی را كه موفقیت آمیز نبود اصلاح كردم. هر گاه راهی را كه عمل نمی كرد حذف كردم راهی را پیدا كردم كه كار می كرد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208014')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>15. <span id="208015">انسان ها مانند خطوط انگشتان، هیچ كدام به هم شبیه نیستند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208015')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>16. <span id="208016">هیچ گاه اثرات خوب تعلیم و تربیت مادرم را از دست نخواهم داد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208016')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>17. <span id="208017">زنها اختراعهای بزرگی نكرده اند، اما مخترعان بزرگ را پرورش داده اند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208017')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>18. <span id="208018">نیایش اگر به گونه ی تهاجمی و با پافشاری و پی در پی انجام گیرد، به اجابت می رسد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208018')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>19. <span id="208019">من نمی گویم هزار بار شكست خوردم، بلكه می گویم من كشف كردم كه هزار راه برای شكست خوردن وجود دارد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208019')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>20. <span id="208020">آنان كه در زندگی پیروز و كامیاب شده اند، نخست از نظر فكر و روح، پیروز و كامیاب بوده اند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208020')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>21. <span id="208021">انسان هر چه بالاتر برود، احتمال دیده شدن وصله شلوارش بیشتر می شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208021')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>22. <span id="208022">انسان در هر سنی كه از كار باز ماند، بهتر است سال بعد بی درنگ بمیرد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208022')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>23. <span id="208023">من در زندگیم حتی یك روز هم كار نكرده ام. آنچه انجام داده ام، تفریح بوده است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208023')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>24. <span id="208024">حجب و حیا نه تنها آرایش است، بلكه نگهبان دانش است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208024')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>25. <span id="208025">می خواهم برق را به اندازه ای ارزان كنم تا تنها توانگران بتوانند پول شمع بپردازند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208025')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>26. <span id="208026">اگر هر كاری را كه توان انجامش را داریم بكنیم، براستی، خود را سرگشته خواهیم ساخت.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208026')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>27. <span id="208027">من دلسرد نمی شوم، زیرا هر تلاش نادرستی كه كنار گذاشته شود، گامی به سوی پیش است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208027')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>28. <span id="208028">اگر هر یك از ما، كارهایی را كه شایستگی انجام آن را داریم، انجام می دادیم، به راستی شگفت زده می شدیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208028')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>29. <span id="208029">هزار بار آزمایشی كه در ساختن لامپ نتیجه نداد، هرگز برایم شكست به شمار نرفت. سرانجام، هزار و یكمین آزمایش، در ِكامیابی و روشنایی را به روی من گشود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208029')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>30. <span id="208030">بزرگترین ناتوانی ما، كوتاه آمدن است. امن ترین راه برای كامیابی، تلاش برای یك بار دیگر است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208030')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>31. <span id="208031">چیزهای ضروری در زندگی بر این پایه‌اند: كار كردن، عشق ورزیدن و امید داشتن.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208031')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>32. <span id="208032">ناتوانی شدید ما در گردن نهادن نهفته است. مطمئن‌ترین راه كامیابی آن است كه همیشه یك بار دیگر هم تلاش كنیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208032')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>33. <span id="208033">ما یك میلیونیم درصد درباره‌ی هیچ چیز نمی‌دانیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208033')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>34. <span id="208034">مادرم كلید كامیابی من بود. او با همه‌ی وجودش به من ایمان داشت و من احساس می‌كردم كسی را دارم كه برایش زندگی كنم؛ كسی كه نباید ناامیدش كنم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208034')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>35. <span id="208035">هرگز اختراعی را بدون در نظر گرفتن خدماتی كه برای دیگران ارائه می‌دهد، كامل نكردم. ابتدا نیازهای دنیا را شناسایی كردم، سپس به اختراع ادامه دادم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('توماس ادیسون','208035')"/></center></spch>
+<script>
+	onLoad()
+</script>

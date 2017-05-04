@@ -1,0 +1,155 @@
+﻿<center><img src="./Pic/Niche.jpg"/>
+<div style="font-size:15px;">فیلسوف، شاعر، آهنگساز و فیلولوژیست کلاسیک بزرگ آلمانی</div></center>
+<hr width="90%" color="Black">
+<spch><p>1. <span id="20601">در انتقام و عشق، زن وحشی تر از مرد است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','20601')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>2. <span id="20602">باید بدانیم كه بزرگترین آزمون استقلال، همان حفظ خویشتن است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','20602')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>3. <span id="20603">پاداش عشق به حقیقت هم در آسمان است و هم در زمین.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','20603')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>4. <span id="20604">زمانی انسان می خواهد همگام با نظم جاودانه باشد كه خودش خوب است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','20604')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>5. <span id="20605">زن هنوز قابل دوستی نیست؛ او تنها عشق را می شناسد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','20605')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>6. <span id="20606">آن كه پرنده نیست نباید بر پرتگاهها آشیان سازد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','20606')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>7. <span id="20607">آنكه می خواهد روزی پریدن را بیاموزد، نخست باید ایستادن، راه رفتن، دویدن و بالارفتن را یاد بگیرد. پرواز را با پرواز آغاز نمی كنند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','20607')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>8. <span id="20608">برخی از طاووس ها دم خویش را از دید دیگران پنهان می دارند و این كار را غرور می نامند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','20608')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>9. <span id="20609">تحمل انسان دارای نبوغ ناممكن است، مگر آنكه در وجودش دست كم دو ویژگی وجود داشته باشد : سپاسگزاری و پاكی.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','20609')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>10. <span id="206010">همواره پرتو اعمال نیك، شما را می پیماید؛ حتی اگر مدت زیادی از انجام آن عمل گذشته باشد. هر چقدر هم كه اعمال شما فراموش و دفع شود، اشعه آن همیشه فروزان خواهد ماند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206010')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>11. <span id="206011">بلند پروازی من آنست که در ده جمله چیزی را بگویم که کسی دیگر در یک کتاب می گوید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206011')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>12. <span id="206012">آینده از آن کسانی است که به استقبالش می روند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206012')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>13. <span id="206013">نادرستی یک حکم باعث نمی شود که آن حکم را رد کنیم ، احکام نادرست برای زندگی بشری ضروری است و رد  کردن آنها را به معنای رد کردن زندگی است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206013')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>14. <span id="206014">فرد خلوت نشین می گوید که واقعیت در کتاب های نیست و فیلسوف آن را پنهان می کند. فرد والا از فهمیده شدن توسط دیگران در هراس است نه از بد فهمیده شدن چون می داند که کسانی که او را بفهمند به سرنوشت او یعنی رنج کشیدن در دنیا دچار خواهند شد..</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206014')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>15. <span id="206015">آنچه والا بودن یک فرد را ثابت می کند کرده های او نیست چون بیخ و بن آنها معلوم نیست و معانی مختلف دارند بلکه ایمان اوست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206015')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>16. <span id="206016">چهار فضیلتی انسان والا عبارت است از : دلیری ،درون بینی ، همدلی و تنهایی  که گرایش به آنها سبب پاکی می شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206016')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>17. <span id="206017">با رنج عمیق درونی آدمی از دیگران جدا می شود و والا می شود. انسان های آزاده دل شکسته و پر غرور خود را پنهان می کنند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206017')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>18. <span id="206018">لذت بیرحمی در دیدن رنج دیگران است اما فردی که بیرحم است این بیرحمی گریبانگیر خودش هم می شود و به ایشان نیز آزار خواهد  رسید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206018')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>19. <span id="206019">کسانی که در خود احساس حقارت می کنند به دیگران رحم می کنند اما به دلیل غرورشان دم نمی زنند! یعنی درد می کشند و می خواهند با دیگران هم دردی کنند.کسانی که با دیگران همدردی می کنند به دلیل دردمند بودن خودشان است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206019')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>20. <span id="206020">آنچه برای یک نفر سزاوار است نمی توان گفت برای فرد دیگر هم سزاوار است. به عنوان مثال انکار نفس و افتادگی سزاوار یک فرمانده نیست و برایش فضیلت محسوب نمی شود. حکم یکسان صادر کردن برای همه غیر اخلاقی ست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206020')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>21. <span id="206021">کسانی که مردم از آنها  به صاحبان اخلاق یاد می کنند اگر ما اشتباهشان را ببینیم از ما به بدی یاد خواهند کرد حتی اگر دوست ما باشند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206021')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>22. <span id="206022">کسی که دلش را به بند بکشد جانش را آزاد کرده است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206022')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>23. <span id="206023">انسان نمی تواند از غرایز خود فرار کند ، وقتی از خطر جانی دور شود دوباره به غرایزش برمی گردد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206023')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>24. <span id="206024">حقیقت مانند دریا است که چون نمک  آب دریا زیاد است تشنگی را رفع نمی کند. اگر حقیقت آدمی تحریف شود مثل آب شور دریا خواهد بود که تشنگی اش را رفع نخواهد کرد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206024')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>25. <span id="206025">نسبت به فرد پایین تر از خود نفرت نداریم بلکه نسبت به فرد برابر با خود یا بهتر از خود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206025')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>26. <span id="206026">آدمی به خاطر نیاز به مراقبت و کمک دیگران با آنها ارتباط برقرارمی کند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206026')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>27. <span id="206027">کسی که آرمان نداشته باشد کمتر لاابالی ست تا کسی که راه رسیدن به آرمانش را نمی داند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206027')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>28. <span id="206028">کسی که جنگجوست باید همواره در حال جنگ باشد چون زمان صلح با خودش درگیر خواهد شد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206028')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>29. <span id="206029">خیر نباید همگانی باشد وگرنه دیگر خیر نیست زیرا چیزهای همگانی ارزشی ندارند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206029')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>30. <span id="206030">هنری جدی است خندیدن؛ باید كه فردا نكوتر به انجامش رسانم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206030')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>31. <span id="206031">غم خودش ما را پیدا می کند، باید دنبال شادیها گشت.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206031')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>32. <span id="206032">بس نیك و عالی است كه مخالفان خاص خویش را داشته باشیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206032')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>33. <span id="206033">حافظه ام می گوید : "من چنین كرده ام". غرورم سرسختانه می گوید : "امكان ندارد چنین كاری كرده باشم". سرانجام حافظه كوتاه می آید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206033')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>34. <span id="206034">بهتر است انسان چیزی نداند، تا اینكه بسیاری چیزها را نیمه تمام بداند. بهتر است كه با عقاید خودمان یك ابله كم عقل باشیم، تا آنكه با عقاید دیگران یك مرد دانشمند به حساب آییم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206034')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>35. <span id="206035">زیبایی جز اینكه نعمت خداست، دام شیطان نیز هست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206035')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>36. <span id="206036">اراده یك احساس نیست، بلكه شامل احساس های گوناگون است و نمی توان آن را از اندیشه جدا كرد. در عین حال، اراده یك شور است و كسی كه اراده می كند، به اشتباه اراده را با عمل یكسان می شمرد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206036')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>37. <span id="206037">كسی كه «دلیلی» برای زیستن دارد، با هر «وضعیتی» می سازد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206037')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>38. <span id="206038">آموزش را در خانواده، دانش را در جامعه و بینش را در تفكرات تنهایی می آموزند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206038')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>39. <span id="206039">آنچه والا بودن یك فرد را ثابت می كند، كرده های او نیست چون بیخ و بن آنها روشن نیست و معانی گوناگونی دارند؛ والایی در ایمان به هدف و آرمان است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206039')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>40. <span id="206040">آنچه در انسان بزرگ است، این است كه او پل است نه غایت.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206040')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>41. <span id="206041">بشر در این دنیا بیشتر از همه موجودات، گرفتاری و عذاب كشیده است. بهترین دلیلش هم این است كه در بین تمام آنها تنها او می تواند بخندد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206041')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>42. <span id="206042">آن كه بر فراز بلندترین كوه رفته باشد، خنده می زند بر همه نمایش های غمناك و واقعیت های غمناك.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206042')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>43. <span id="206043">اینها ضعفا هستند كه اراده به سوی قدرت خودشان را به این صورت مخفی می كنند كه جهان دیگری بسازند؛ در حقیقت جهان افلاطونی همین است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206043')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>44. <span id="206044">امكان ندارد شما به راه خطا نرفته باشید، اما چرا باز هم آن را حقیقت می پندارید؟</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206044')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>45. <span id="206045">اخلاق، در حقیقت همان آموزه روابط حاكمی است كه پدیده "زندگی" با آن پدید می آید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206045')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>46. <span id="206046">آموختن ما را دگرگون می كند و همان كاری را انجام می دهد كه تغذیه می كند؛ یعنی تنها ما را حفظ نمی كند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206046')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>47. <span id="206047">هیچ كس به اندازه فردی خشمگین دروغ نمی گوید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206047')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>48. <span id="206048">جوان جبهه می گیرد، جبهه بر ضد "جوانی" ... و ده سال بعد می فهمد كه این كار نیز از روی جوانی بوده است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206048')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>49. <span id="206049">باید خویشتن را بیازماییم تا دریابیم مهیای استقلال و فرماندهی هستیم یا خیر و این كار را باید به هنگام انجام دهیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206049')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>50. <span id="206050">احساس خشم و احترام كه از ویژگیهای جوانی است، به نظر می رسد تا زمانی كه انسانها و اشیاء را به درستی جعل كند و راه گریزی برای خویش بیابد، فرد را راحت نمی گذارد، زیرا جوانی در حقیقت همان جعل و فریب است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('فردریش نیچه','206050')"/></center></spch>
+<script>
+	onLoad()
+</script>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest android:versionCode="154" android:versionName="1.5.4" package="com.RamzDroid.ADS"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <application android:label="@string/app_name" android:icon="@drawable/ic_launcher" android:debuggable="false">
+        <activity android:label="@string/app_name" android:name=".AzHarDariSokhaniActivity" android:configChanges="keyboardHidden|orientation">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/app_name" android:name="com.phonegap.DroidGap" android:configChanges="keyboardHidden|orientation">
+            <intent-filter />
+        </activity>
+    </application>
+</manifest>

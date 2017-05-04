@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_lock_power_off" android:id="@id/exit" android:menuCategory="system" android:orderInCategory="0" android:title="خروج" />
+    <item android:icon="@drawable/create_contact" android:id="@id/DonationApp" android:menuCategory="system" android:orderInCategory="1" android:title="خرید نسخه حمایتی" />
+    <item android:icon="@drawable/ic_menu_info_details" android:id="@id/Feedback" android:menuCategory="system" android:orderInCategory="2" android:title="ارسال نظر" />
+</menu>

@@ -1,0 +1,266 @@
+﻿<center><img src="./Pic/Bozorgmehr.jpg"/>
+<div style="font-size:15px;">وزیر خردمند خسرو انوشیروان (شاهنشاه ساسانی)</div></center>
+<hr width="90%" color="Black">
+<spch><p>1. <span id="10801">تقدیر، ارباب مردان ترسو است و برده مردان شجاع.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','10801')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>2. <span id="10802">خرد در نظر گاه مردمان آزاده و نیك سرشت جهان، پر از شادی و شكوه می نماید. بهره خردمندان و امیدواران، همیشه شادكامی است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','10802')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>3. <span id="10803">خوشا به حال پیمان منشانی كه وجودشان به پیرایه پاكی و شرم آراسته شده است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','10803')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>4. <span id="10804">در آیین خرد، در هر كاری اندیشه باید.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','10804')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>5. <span id="10805">اگر كسی نه در وقت ضرورت سخن گفت قدرش شكسته می شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','10805')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>6. <span id="10806">دانایان روشندل می دانند كه دوران زندگی دراز نیست؛ تن آدمی از این جهان است و روان از سرای دیگر.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','10806')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>7. <span id="10807">اگر روزی به چیزی نیازمند شدی، به ملك و مال و دیگر اسباب حشمت و بزرگی خویش مناز، به كار و پیشه ای بپرداز كه نامت سبك و ننگین نشود.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','10807')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>8. <span id="10808">دیوِ كین و دیوِ سخن چینی گزنده است. سخن چین هرگز جز به دروغ لب نمی گشاید. گفتارش همیشه بی فروغ است. [ افراد ] دو رو و سخن چین از مهر یزدان بی بهره اند و از او در هراسند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','10808')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>9. <span id="10809">اگر كوه با همه سنگینی و عظمت و استواری كه برای اوست فرمان شاه را سبك دارد، تیره رایِ خیره سری بیش نیست.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','10809')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>10. <span id="108010">برترین دانش ها یزدان پرستی است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108010')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>11. <span id="108011">آن چه دلخواه همه است جز تندرستی نیست؛ كه اگر كسی روزی از آن محروم شد آرزویی جز بدست آوردنش ندارد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108011')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>12. <span id="108012">اگر بپرسند كیستی باید هنرهای خویش را بشماری.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108012')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>13. <span id="108013">دل اهل دانش زمانی شاد می گردد كه بردبار بوده و مردم بی شرم را به خویش نزدیك نكند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108013')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>14. <span id="108014">دل آدمی بنده آرزو است. سرشتها یكسان نیست، هر كس خویی دارد و جویا و خواهان چیزی است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108014')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>15. <span id="108015">پادشاهانِ مردم دوست، برگزیدگان پروردگارند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108015')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>16. <span id="108016">خردورزان همیشه به راه آزادگان و راستان می روند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108016')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>17. <span id="108017">آن كس كه به آموختن كوشاتر و گوشش به دانش شنواتر است، امیدوارترین كسان است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108017')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>18. <span id="108018">بدنژادان و بدگوهران باید خطاكار را از درگاه خویش برانند تا نیكان از گزندشان در امان بمانند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108018')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>19. <span id="108019">در نزد خردمندان چهار چیز بر پادشاهان عیب است : ترسیدن در میدان جنگ، گریز از بخشندگی، خوار داشتن رای خردمندان، شتابزدگی و ناآرامی و بی قراری در كارها.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108019')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>20. <span id="108020">بخشنده ی نیكخوی آن كسی است كه جانش را به بخشش آراسته گرداند. به دور از جوانمردی است كه بخشنده بر آن كسی كه چیزی به او داده یا خیری رسانده منت نهد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108020')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>21. <span id="108021">بیزاری بجوی از كسی كه دریغش می آید كسی از نیكی و یاری كس دیگر بهره یابد؛ [ چرا كه ] نه دانشور است و نه می خواهد كه از دانش دیگران سود جوید.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108021')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>22. <span id="108022">خردمند به چیزی كه اگر به دستش نیاید غمگین و دل آزرده شود، هرگز دل نمی بندد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108022')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>23. <span id="108023">بیدارترین، هشیارترین و پسندیده ترین كسان، دانای سالخورده ای باشد كه دانش به تجربت آموخته است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108023')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>24. <span id="108024">آن كس بر خویشتن نگهبان دارد كه برای رسیدن به هوس و آرزوهای كوچك، قدر نیكخویی و جوانمردی را نشكند و اگر فزونی و كامیابی بد روزگار را دید تن به پستی و زبونی نسپارد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108024')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>25. <span id="108025">در نظر خردمند شادی ای كه غم در پی دارد بی ارزش است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108025')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>26. <span id="108026">خرسندترین آدم كسی است كه دل از مهر و موافقت گردان سپهر برگیرد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108026')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>27. <span id="108027">پیشه ای برگزین كه از آن شرمساری نبری.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108027')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>28. <span id="108028">حیله و تزویر را به كارهای خود راه مده.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108028')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>29. <span id="108029">مردمان را خُرده (عیب) مگیرید كه هیچ كس بی خُرده نیست.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108029')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>30. <span id="108030">بر دوستی كه حسود باشد، ایمن نمی توان بود.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108030')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>31. <span id="108031">دل در آرزوی آنچه دسترسی بدان امكان پذیز نیست نباید بست، به این دلیل كه مایه رنج تن و بلای جان است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108031')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>32. <span id="108032">امید، آهستگی و ملایمت زندگی را روشن و شیرین می كند، خشم و تیزی مایه ی رنج و بلا است. آهسته رو از عیب جویی می گریزد و شرم و آهستگی را دوست می دارد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108032')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>33. <span id="108033">آن كه خواهان آسایش جان و تن است باید شكیبا و بردبار باشد، در دوستی و داد و ستد با مردم كژی و كاستی و فریبكاری نكند. چون گناهی از كسی بیند و بر او دست یابد، ببخشد و كینه خواه و تیز خشم و دشمن سوز و نابردبار نباشد</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108033')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>34. <span id="108034">هر كه از سرنوشت دیگران پند نگیرد، دیگران از سرنوشتش پند خواهند گرفت.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108034')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>35. <span id="108035">باید پیوسته به پروردگار بی همتا رو آوریم، در هر كاری او را بینا دانسته و باور كنیم كه روزی دهِ مختار، اوست.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108035')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>36. <span id="108036">فر و شكوه زمانی فزونی می یابد كه دانا در نزد ما ارجمند باشد و كام بدخواه را به زهر بی اعتنایی بیالاییم.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108036')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>37. <span id="108037">دارایی، هم مایه ی سربلندی و آسایش است و هم سبب خواری و پریشانی. اگر به آیین خرد صرف شود آفریننده ی شادی و برآورنده ی نام نیك است، اما اگر بنهند و نخورند یا چنانكه باید بكار نبرند بهای سنگ و گوهر شاهوار یكی است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108037')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>38. <span id="108038">ستوده و نیك فرجام كسی است كه دادگر و نیكنام و در كردار و گفتار به هنجار باشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108038')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>39. <span id="108039">همرزمان هوشیار برگزین و اگر خصم بر تو تیز گردید از او برمتاب. اما چون یقین كردی كه در برابر او تاب پایداری نداری به جنگ مكوش و با خصم پر توان میاشوب.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108039')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>40. <span id="108040">درگاه فرمانروا بسان دریا است، جوینده ای از دریا ریگ به كف می آورد و دیگری دُر شاهوار.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108040')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>41. <span id="108041">كسی شایستگی سرفرازی و سروری را دارد كه فروتن و بخشنده باشد، بكوشد، بجوید، با همراهان همدل در طلب دانش و تجربه سفر كند و همیشه با همه كس به مدارا و آهستگی رفتار نماید.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108041')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>42. <span id="108042">هر كه نیك نهاد و پاك منش و كوشا باشد، به آنچه سزاوار است می رسد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108042')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>43. <span id="108043">دانش، برترین داده های یزدان پاك است و خردمند همیشه سرور است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108043')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>44. <span id="108044">جنگی هر چند كه زورمند بُوَد از حیلت بی نیاز نگردد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108044')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>45. <span id="108045">هر كه به آن چه دارد بسنده كند، همیشه بی نیاز بود.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108045')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>46. <span id="108046">خرد، آدمی را گرانبهاترین چیز است. خداوند خرد در هر دو جهان كامروا و سرافراز است و اگر از جامه ی خرد محروم بُود دانش بجوید. چه، دانشور سرور سروران است و اگر از آن هم بی بهره بود باید دلیر بوده و در میدان نبرد بی باك باشد تا در نظر پادشاه، گرامی و پیوسته، شاد و فرمانروا آید و اگر این نیز نداشت دیگر درخور زنده ماندن نیست و بهتر است كه مرگ، وی را دریابد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108046')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>47. <span id="108047">تن به تن آسایی و كاهلی نباید سپرد؛ كاری باش و از این راه شادی و آسایش را فراهم كن.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108047')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>48. <span id="108048">توانگر كسی است كه به آنچه خداوند توانا نصیبش كرده خرسند باشد. زیرا شوریده بخت تر و پراكنده خاطرتر از آزمند كسی نیست.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108048')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>49. <span id="108049">خرد در پیكار با دیوان، برنده ترین سلاح به شمار می رود. در برابر شمشیر تیز دیو، خرد جوش است و جان بدان روشن.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108049')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>50. <span id="108050">اگر مرگ حق است، دل بر جهان نهادن عین نادانی است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108050')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>51. <span id="108051">خودرایی و خودبینی، همه كام و مراد خود طلبیدن و دیگران را نامراد و خوار و زبون خواستن، راه اهرمن و دل به نیكی سپردن، راه یزدان است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108051')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>52. <span id="108052">خرد بر سر جان چون افسری تابنده است و مدارا و مهربانی هم سنگ خرد است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108052')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>53. <span id="108053">بیهوده گوی در نظر هیچ كس ارزش ندارد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108053')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>54. <span id="108054">آدمی باید از گناه بپرهیزد؛ هر چه را به خویش نمی پسندد، به دوست و دشمن خود روا ندارد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108054')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>55. <span id="108055">آسوده حال كسی است كه بردبار است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108055')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>56. <span id="108056">آن كه در آموختن جهد نمی كند، هرگز نباید در انجمن دانایان لب به گفتار بگشاید.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108056')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>57. <span id="108057">آن كه خشم بر او چیره نشود و بر گنهكار سخت نگیرد، از گزند در امان است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108057')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>58. <span id="108058">پرحرف را كه دشمن راستی و روان پاك است هرگز نپذیر.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108058')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>59. <span id="108059">خود را به هوس نزدیك مكن كه خرد از تو روی برمی تابد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108059')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>60. <span id="108060">اگر دل، راست اندیش و زبان، راستگو باشد، در كاستی و نادرستی بسته می شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108060')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>61. <span id="108061">چون دانستی كه خدا از خاكت آفریده، گردنكشی و خودرایی مكن.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108061')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>62. <span id="108062">چون به كسی اجازه دادی كه در حضور تو سخن بگوید، بر او درشتی و تندی مكن و بمان تا سخنش را به پایان برد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108062')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>63. <span id="108063">از آموختن دانش هیچ زمان غافل نمان، گرچه در این راه رنجها كشی، مبادا كه دلت از آموختن، ناتوان و آشفته گردد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108063')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>64. <span id="108064">خردمندی كه بخشنده و دانشور و دادگر و نجیب باشد، هرگز بدخو نمی شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108064')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>65. <span id="108065">دانای روشندل كسی است كه به فرمان دیو از راه یزدان پاك جهان آفرین برنگردد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108065')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>66. <span id="108066">آن كه آرزوی سروری دارد، باید هنر بسیار داشته باشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108066')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>67. <span id="108067">آن كه جویای كمال است، باید هوشیار و خردمند باشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108067')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>68. <span id="108068">آن كه به خداوند پاك و مهربان بیش از دیگران امید و بیم بسته است، بیش از همه شایسته ستایش است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108068')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>69. <span id="108069">ارزش هر كس به اندازه خرد اوست.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108069')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>70. <span id="108070">بهترین خو، سازش و آشتی خواهی است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108070')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>71. <span id="108071">توانگر راستین كسی است كه حرص و طمع در دلش راه نیافته است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108071')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>72. <span id="108072">بدخو چنان به رنج اندر است كه از زندگانی و تندرستی و خواسته لذت نمی برد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108072')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>73. <span id="108073">اگر باخردی، هرگز گرد بدی نگرد كه نیكوترین كسان آن بود كه بیرون و درونش پاكیزه و نیك باشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108073')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>74. <span id="108074">اگر امیدواری كه رنج تو بار نیكو دهد، هرگز گفتار آموزگاران را خوار مدار و از فرمانشان سرپیچی نكن.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108074')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>75. <span id="108075">برای نادان پیرایه ای سزاوارتر و زیباتر از خاموشی نیست.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108075')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>76. <span id="108076">برای آدمی دشمن دانا از دوست نادان بهتر است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108076')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>77. <span id="108077">به بسیار گفتن آبروی خود مبر.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108077')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>78. <span id="108078">بیهوده گویان پندآموزند، زیرا هشیاران عیب ایشان را به دیده می نگرند و از بیهوده گویی می پرهیزند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108078')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>79. <span id="108079">اگر خرسند و خشنود باشی، زندگی به دلخواه می سپاری.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108079')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>80. <span id="108080">اگر شاه با تو مهربان باشد، دلیر و گستاخ مشو؛ زیرا طبع شاه چون آتش است و دل شیر از آن می هراسد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108080')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>81. <span id="108081">دوستی برای خود برگزین كه به گاه سختی و درماندگی مددكارت باشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108081')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>82. <span id="108082">حرص و طمع مایه نگرانی و پریشانی خاطر است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108082')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>83. <span id="108083">آن كه پیرو خرد است، دل به هوس نمی سپارد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108083')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>84. <span id="108084">در نظر مردم سخن سنج، ارزش سخن بیش از گنج است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108084')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>85. <span id="108085">آنچه هستید شما را بهتر معرفی می كند تا آنچه می گویید.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108085')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>86. <span id="108086">آنكه كردار به سخاوت بیاراید و گفتار به راستی، در این جهان نیكبخت است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108086')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>87. <span id="108087">دوستان برای شكار دشمنان چون تیر و پیكان اند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('بزرگمهر بختگان','108087')"/></center></spch>
+<script>
+	onLoad()
+</script>

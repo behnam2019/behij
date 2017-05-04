@@ -1,0 +1,119 @@
+﻿<center><img src="./Pic/Einstein.jpg"/>
+<div style="font-size:15px;">فیزیکدان آلمانی</div></center>
+<hr width="90%" color="Black">
+<spch><p>1. <span id="20301">این ممکن است که بتوان هر چیزی را به صورت علمی شرح داد،اما این بی احساس و بی معنی خواهد بود،درست مثل این که اگر شما سمفونی بتهوون را همچون یک موج نوسانی فشرده شرح دهید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','20301')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>2. <span id="20302">مسلما نیروی جاذبه هیچ مسئولیتی در قبال افتادن انسانها در عشق ندارد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','20302')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>3. <span id="20303">وقتی شما به مدت دو ساعت با دختر زیبایی می نشینید به نظر می رسد که دو دقیقه بر شما گذشته،ولی وقتی روی یک اجاق داغ برای دو دقیقه می نشینید گویی به نظر می رسد که دو ساعت بر روی آن نشسته اید.((این نسبیت است)).</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','20303')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>4. <span id="20304">تخیلات بسیار مهم تر و با ارزش تر از دانش و دانسته ها هستند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','20304')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>5. <span id="20305">اشخاص مختلف به کمک تکلم می توانند تا حدودی تجربیات خود را با هم مقایسه کنند،از این راه نشان داده می شود که برخی ادراکات حسی اشخاص مختلف نظیر یکدیگر است،در حالی که برای ادراکات حسی دیگر چنین تناظری را نمی توان اثبات کرد.ما عادت داریم که آن دسته از ادراکات حسی را که بین افراد مختلف مشترک هستند و بنابراین ،تا حدودی،غیر شخصی هستند را،واقعی بدانیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','20305')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>6. <span id="20306">در طول یک قانون ریاضی به یک واقعیت اشاره می شود ولی یقین وجود ندارد. در طول زمانی که یقین وجود دارد،کسی به واقعیت اشاره نمی کند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','20306')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>7. <span id="20307">گاهی اوقات ما بهای هنگفتی را برای هیچ می پردازیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','20307')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>8. <span id="20308">زمانی که از آلبرت اینیشتین خواسته شد که درباره ی رادیو شرح دهد،پاسخ داد: (ببینید،سیم تلگراف شبیه یک گربه ی بسیار بسیار طویل می باشد.شما دم او را در نیویورک می کشید،و او در لس آنجلس میومیو می کند.آیا شما این را درک می کنید؟رادیو نیز دقیقا این چنین عمل می کند؛شما سیگنال را در اینجا ارسال می کنید وآنها در انجا ان را دریافت می کنند.فقط با این تفاوت که در آنجا گربه ای وجود ندارد.)</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','20308')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>9. <span id="20309">اگر من فقط شهرت داشتم ، من فقط یک قفل سازمی بودم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','20309')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>10. <span id="203010">انسان عموما از نسبت دادن صفت زیرکی به دیگران اجتناب می کند، مگر به دشمن.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203010')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>11. <span id="203011">هیچ گاه به آینده فکر نمی کنم ،آینده خیلی زود از راه می رسد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203011')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>12. <span id="203012">انسان جزئی است از یک کل،که ما آن را ((عالم))می نامیم.جزئی که محدود به زمان و فضا است.او خود افکار و احساساتش را به عنوان چیزی جدای بقیه عالم تجربه می کند.که می توان ان را نوعی خطای باصره در خود آگاهیش دانست.این خطا برای ما نوعی زندان است که ما را به امیال شخصی و ابراز عواطف نسبت به چند نفری که از همه به ما نزدیکترند محدود می کند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203012')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>13. <span id="203013">وظیفه ی دشوار ما باید این باشد که خود را از این زندان نجات دهیم و دایره ی عواطف خود را گسترش دهیم،تا همه موجودات زنده و سراسر طبیعت را با تمام زیبائیهایش در بر گیرد.هیچ کس قادر نیست کاملا به این هدف دست یابد.اما تلاش برای نیل به آن خود بخشی از روند آزادی برای امنیت درونی است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203013')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>14. <span id="203014">فقط دو چیز لایتناهی وجود دارد،جهان هستی و نادانی انسانها،البته من راجع به اولی زیاد مطمئن نیستم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203014')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>15. <span id="203015">در مقابل خداوند همه ی ما به یک اندازه خردمند و به یک اندازه احمق هستیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203015')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>16. <span id="203016">لذت نگریستن و درک طبیعت والاترین نعمت است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203016')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>17. <span id="203017">قرآن، کتاب جبر یا هندسه یا حساب نیست بلکه مجموعه ای از قوانین است که بشر را به راه راست، راهی که برزگ ترین فلاسفه از تعریف آن عاجزند ، هدایت می کند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203017')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>18. <span id="203018">نقطه اتصال دو زمان گذشته و آینده حال است قدر آنرا بدانید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203018')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>19. <span id="203019">راز ابدی دنیا دریافتنی بودن آن است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203019')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>20. <span id="203020">از یافته های بزرگ امانوئل کانت یکی این است که فرض دنیای خارجی واقعی،بدون این دریافتنی بودن،بی معنی است.این واقعیت که دنیا دریافتنی است،یک معجزه است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203020')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>21. <span id="203021">قسم می خورم که توی این عالم یک خبری هست!!</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203021')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>22. <span id="203022">به هنگام رویارویی با مشکلات اساسی، نمی توانیم از همان سطح تفکری که آن مشکلات را به وجود آوردیم، آنها را برطرف کنیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203022')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>23. <span id="203023">عشق مثل ساعت شنی می ماند، هم زمان که قلب را پر می کند،مغز را خالی می کند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203023')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>24. <span id="203024">من می خواهم اندیشه های خداوند را بدانم...بقیه چیزها جزئیات هستند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203024')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>25. <span id="203025">من خودم را برای یک کار خیلی بزرگ آماده کرده بودم اما بعد از اینکه مسایل رو دیدم فهمیدم که کار بزرگی نمی خواهد انجام بدهم. فقط باید این قایق را روی آب انداخت و کمی پارو زد. همین!!</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203025')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>26. <span id="203026">تجاربی که تا کنون داشته ایم به ما این اجازه را می دهند که طبیعت را مصداق ساده ترین اندیشه های ریاضی قابل تصور بدانیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203026')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>27. <span id="203027">من قانع شده ام که می توان با استفاده از ابزارهای ریاضی محض،مفاهیم و قوانین مرتبط کننده آنها را که کلیه شناخت طبیعت هستند بدست آورد،آزمایش ممکن است الهام بخش مفاهیم ریاضی مناسب باشند اما به طور قطع و یقین نمی توان این مفاهیم را از تجربه استنتاج کرد،البته آزمایش همچنان یگانه معیار مفید بودن ساختارهای ریاضی خواهد بود اما خلاقیت در جنبه های ریاضی مطلب است،بنا براین به یک اعتبار عقیده دارم که همانطور که قدما تصورمی کردند،فکر محض می تواند به درک واقعیت نائل شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203027')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>28. <span id="203028">من بافته های فکرم را با استفاده از تیشه ی ریاضی آنچنان ظریف و حساس کرده ام تا به فرکانسهای خدا، عکس العمل نشون بده.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203028')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>29. <span id="203029">جالبه که هر کدام ما برای یک سفر روی زمین می آییم که نمیدونیم چرا؟ اما بنظر میرسه که هدف مقدسی وجود داشته باشه.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203029')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>30. <span id="203030">در جهان چیزی هست که نمی دانیم چیست و کاری می کند که نمی دانیم چه کاری است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203030')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>31. <span id="203031">برای من چه لذتی عمیق تر و واقعی تر از این است که بدانم ،آیا خداوند هیچ انتخابی در آفرینش این جهان داشته است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203031')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>32. <span id="203032">دو راه برای زندگی در دوران زندگی وجود دارد: یکی آنکه تصور کنیم هیچ چیز یک معجزه نیست و دیگر آنکه تصور کنیم که همه چیز یک معجزه است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203032')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>33. <span id="203033">تو نمی توانی به طور همزمان هم آماده ی جنگ و هم مانع از وقوع جنگ شوی.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203033')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>34. <span id="203034">نفهمیدنی ترین چیز در رابطه با دنیا آن است که اصلا قابل درک نیست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203034')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>35. <span id="203035">خداوند برای آفرینش جهان تاس نیانداخت.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203035')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>36. <span id="203036">اگر A یک معادله ی موفق باشد،آنگاه فرمول آن به این قرار است: Z+Y+X=A که در آن،X : کار و Y: تفریح و Z : دهانت را بسته نگه دار، تعریف شده است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203036')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>37. <span id="203037">شما وقتی تبسم می کنید، جامه ی انسانیت می پوشید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203037')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>38. <span id="203038">از نظر من معادله مهم تر است زیرا سیاست برای حال است و معادله برای ابد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('انیشتین','203038')"/></center></spch>
+<script>
+	onLoad()
+</script>

@@ -1,0 +1,68 @@
+﻿<center><img src="./Pic/Rabins.jpg"/>
+<div style="font-size:15px;">نویسنده و سخنران آمریکایی</div></center>
+<hr width="90%" color="Black">
+<spch><p>1. <span id="20501">به مردم بیش از آنچه انتظار دارند بدهید و این کار را با شادمانی انجام دهید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('آنتونی رابینز','20501')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>2. <span id="20502">با مرد یا زنی ازدواج کنید که عاشق صحبت کردن با او هستید. برای اینکه وقتی پیرتر می شوید، مهارت های مکالمه ای مثل دیگر مهارت ها خیلی مهم می شوند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('آنتونی رابینز','20502')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>3. <span id="20503">همه ی آنچه را که می شنوید باور نکنید، همه ی آنچه را که دارید خرج نکنید و یا همان قدر که می خواهید نخوابید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('آنتونی رابینز','20503')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>4. <span id="20504">وقتی می گویید: دوستت دارم. منظورتان همین باشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('آنتونی رابینز','20504')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>5. <span id="20505">وقتی می گویید : متاسفم. به چشمان شخص مقابل نگاه کنید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('آنتونی رابینز','20505')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>6. <span id="20506">قبل از اینکه ازدواج کنید حداقل شش ماه نامزد باشید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('آنتونی رابینز','20506')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>7. <span id="20507">به عشق در اولین نگاه باور داشته باشید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('آنتونی رابینز','20507')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>8. <span id="20508">هیچ وقت به رؤیاهای کسی نخندید. مردمی که رؤیا ندارند هیچ چیز ندارند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('آنتونی رابینز','20508')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>9. <span id="20509">عمیقاً و با احساس عشق بورزید. ممکن است آسیب ببینید ولی این تنها راهی است که به طور کامل زندگی می کنید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('آنتونی رابینز','20509')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>10. <span id="205010">در اختلافات منصفانه بجنگید و از کسی هم نام نبرید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('آنتونی رابینز','205010')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>11. <span id="205011">مردم را از طریق خویشاوندانشان داوری نکنید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('آنتونی رابینز','205011')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>12. <span id="205012">آرام صحبت کنید ولی سریع فکر کنید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('آنتونی رابینز','205012')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>13. <span id="205013">وقتی کسی از شما سوالی می پرسد که نمی خواهید پاسخ دهید، لبخندی بزنید و بگویید : چرا می خواهی این را بدانی؟</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('آنتونی رابینز','205013')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>14. <span id="205014">به خاطر داشته باشید که عشق بزرگ و موفقیت های بزرگ مستلزم ریسک های بزرگ هستند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('آنتونی رابینز','205014')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>15. <span id="205015">وقتی کسی عطسه می کند به او بگویید : عافیت باشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('آنتونی رابینز','205015')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>16. <span id="205016">وقتی چیزی را از دست می دهید، درس گرفتن از آن را از دست ندهید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('آنتونی رابینز','205016')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>17. <span id="205017">این سه نکته را به یاد داشته باشید: احترام به خود، احترام به دیگران و مسئولیت همه کارهایتان را پذیرفتن.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('آنتونی رابینز','205017')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>18. <span id="205018">اجازه ندهید یک اختلاف کوچک به دوستی بزرگتان صدمه بزند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('آنتونی رابینز','205018')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>19. <span id="205019">وقتی متوجه می شوید که که اشتباهی مرتکب شده اید، فوراً برای اصلاح آن اقدام کنید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('آنتونی رابینز','205019')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>20. <span id="205020">وقتی تلفن را بر می دارید لبخند بزنید، کسی که تلفن کرده آن را در صدای شما می شنود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('آنتونی رابینز','205020')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>21. <span id="205021">زمانی را برای تنها بودن اختصاص دهید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('آنتونی رابینز','205021')"/></center></spch>
+<script>
+	onLoad()
+</script>

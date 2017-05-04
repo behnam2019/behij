@@ -1,0 +1,71 @@
+﻿<center><img src="./Pic/Gandi.jpg"/>
+<div style="font-size:15px;">رهبر صلح طلب سیاسی و معنوی هندی ها</div></center>
+<hr width="90%" color="Black">
+<spch><p>1. <span id="20701">ضعیف هیچگاه نمی تواند ببخشد (چون قدرت تنبیه ندارد) بخشش برای موجود قوی است (تا در عین قدرت تنبیه یا انتقام ببخشد).</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('گاندی','20701')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>2. <span id="20702">برای یتیم، بی خانمان یا انسانی كه جانش را از دست داده چه فرقی می كند كه این وحشیگری های دیوانه وار با نام استبداد انجام گیرد یا تحت لوای نامهایی توخالی مانند دموكراسی و آزادی باشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('گاندی','20702')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>3. <span id="20703">ما به زودی بنیاد اخلاق را از دست می دهیم. ما از مذهب دست كشیده ایم. هیچ چیز مانند مذهب نمی تواند بر اخلاق چیره شود. به عنوان مثال یك فرد مذهبی نمی تواند خائن، ظالمیا هرزه باشد. و تمایل دارد در راه خدا قدم بردارد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('گاندی','20703')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>4. <span id="20704">ارزش زندگی بیش از آن است كه به سرعت از آن گذر كنیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('گاندی','20704')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>5. <span id="20705">تغییری را كه آرزو داریم در دیگران ببینیم ابتدا باید در خود ایجاد كنیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('گاندی','20705')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>6. <span id="20706">بهترین راه پیدا كردن خود در این است كه خود را وقف خدمت به دیگران بكنید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('گاندی','20706')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>7. <span id="20707">هر گاه انگیزه شخصی مورد تردید واقع شود همه اعمال او لكه دار می شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('گاندی','20707')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>8. <span id="20708">تنها ستمگری كه در این دنیا می توانم بپذیرم سكوت است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('گاندی','20708')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>9. <span id="20709">اخلاق واقعی در دنبال کردن راه دیگران نیست بلکه در این است که راه حقیقی و درست رابرای خویش پیدا کنیم و بدون بیم و باک آن را دنبال کنیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('گاندی','20709')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>10. <span id="207010">ممکن است من شخصی حقیر و ناچیز باشم اما وقتی که حقیقت بوسیله من سخن می گوید شکست ناپذیر هستم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('گاندی','207010')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>11. <span id="207011">من از امتیازها و انحصارها نفرت دارم. هرچه نتواند با توده های مردم تقسیم شود برایم گناه آلود و حرام است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('گاندی','207011')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>12. <span id="207012">هیچوقت نمی‌توانید با مشت گره‌ کرده دست کسی را به گرمی بفشارید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('گاندی','207012')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>13. <span id="207013">پیروزی آن نیست که هرگز زمین نخوری، آنست که بعداز هر زمین خوردنی برخیزی.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('گاندی','207013')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>14. <span id="207014">لیاقت انسان‌ها کیفیت زندگى را تعیین می‌کند، نه آرزوهایشان.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('گاندی','207014')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>15. <span id="207015">این مرزها را هرگزخداوند به وجود نیاورده است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('گاندی','207015')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>16. <span id="207016">کتابها در بهترین صورت خود می توانند فقط وسیله کمک باشند و اغلب هم موجب مزاحمت می شوند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('گاندی','207016')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>17. <span id="207017">در جهان، روشنایی هایی وجود دارد كه در عمیق ترین ظلمات نهانند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('گاندی','207017')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>18. <span id="207018">از هر چیزی تازه اش را انتخاب كنید، ولی از دوست كهنه اش را.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('گاندی','207018')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>19. <span id="207019">شاید ثمره كلام دلنشینی را كه امروز به زبان می آورید، فردا بچشید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('گاندی','207019')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>20. <span id="207020">باطن و سیرت مردم را در هنگام بدبختی آنها می توان شناخت.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('گاندی','207020')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>21. <span id="207021">آنچنان زندگی كن كه گویی فردا خواهی مرد و آنچنان بیاموز كه گویی تا ابد زنده خواهی ماند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('گاندی','207021')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>22. <span id="207022">شاد كردن قلبی با عمل، بهتر از هزاران سر است كه به نیایش خم شده باشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('گاندی','207022')"/></center></spch>
+<script>
+	onLoad()
+</script>

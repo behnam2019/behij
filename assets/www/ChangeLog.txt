@@ -1,0 +1,78 @@
+﻿<fontsize><p align="center" style="font-size:22px;"><b>تغییرات در نسخه 1.5.4 :</b></p></fontsize>
+<hr width="90%" color="#F93">
+<fontsize><p> * افزوده شدن اسکرول بار جهت نمایش موقعیت صفحه</p></fontsize>
+<fontsize><p> * معرفی ویژگی های نسخه حمایتی در بخش "گزینه های دیگر"</p></fontsize>
+<fontsize><p> * افزوده شدن 24 سخن از صادق هدایت</p></fontsize>
+<fontsize><p> * افزوده شدن 15 سخن از نادرشاه افشار</p></fontsize>
+<fontsize><p> * افزوده شدن 87 سخن از بزرگمهر بختگان</p></fontsize>
+<fontsize><p> * افزوده شدن 70 سخن از اشو زرتشت</p></fontsize>
+<hr width="90%" color="blue">
+<br>
+<fontsize><p align="center" style="font-size:22px;"><b>تغییرات در نسخه 1.5.3 :</b></p></fontsize>
+<hr width="90%" color="#F93">
+<fontsize><p> * بهبود کیفیت آیکون برنامه</p></fontsize>
+<fontsize><p> * تغییر لیست بزرگان ایرانی (لیست بزرگان خارجی در نسخه حمایتی به همین ترتیب است)</p></fontsize>
+<fontsize><p> * افزودن توضیحی در مورد بزرگان ایرانی (درمورد بزرگان خارجی، در نسخه حمایتی به همین صورت است)</p></fontsize>
+<fontsize><p> * حذف سخنان صادق هدایت به دلیل ایجاد حساسیت و حس منفی</p></fontsize>
+<fontsize><p> * افزایش سخنان ارد بزرگ به 111 سخن</p></fontsize>
+<fontsize><p> * افزوده شدن بخش معرفی ویژگی های نسخه حمایتی</p></fontsize>
+<fontsize><p> * تغییر تصویر ورودی</p></fontsize>
+<hr width="90%" color="blue">
+<br>
+<fontsize><p align="center" style="font-size:22px;"><b>تغییرات در نسخه 1.5.2 :</b></p></fontsize>
+<hr width="90%" color="#F93">
+<fontsize><p> * تغییر آیکون برنامه به آیکون قبلی</p></fontsize>
+<fontsize><p> * افزوده شدن عکس زمان ورود</p></fontsize>
+<fontsize><p> * رفع مشکل موضوع ایمیل</p></fontsize>
+<fontsize><p> * رفع مشکلات جزئی دیگر</p></fontsize>
+<hr width="90%" color="blue">
+<br>
+<fontsize><p align="center" style="font-size:22px;"><b>تغییرات در نسخه 1.5.1 :</b></p></fontsize>
+<hr width="90%" color="#F93">
+<fontsize><p> * تغییر آیکون برنامه</p></fontsize>
+<fontsize><p> * عدم نمایش شماره سخن زمان ارسال</p></fontsize>
+<fontsize><p> * بهبود محیط برنامه و روانتر شدن رابط کاربری</p></fontsize>
+<fontsize><p> * بهبود محسوس سرعت</p></fontsize>
+<fontsize><p> * نمایش نوار عنوان در زمان اسکرول کردن. با کلیک روی متن این نوار نمایش داده میشود و  یا مخفی میگردد</p></fontsize>
+<fontsize><p> * افزوده شدن منوی "برنامه های دیگر ما"</p></fontsize>
+<fontsize><p> * حذف آدرس ایمیل از محیط برنامه و افزوده شدن منوی "ارسال نظر"</p></fontsize>
+<fontsize><p> * افزوده شدن منوی "خروج"</p></fontsize>
+<fontsize><p> * تغییر شکل دکمه ارسال</p></fontsize>
+<fontsize><p> * افزوده شدن تصویر هر شخص به ابتدای سخنان وی</p></fontsize>
+<fontsize><p> * افزوده شدن 13 سخن از ابو علی سینا</p></fontsize>
+<fontsize><p> * افزوده شدن 32 سخن از فردوسی</p></fontsize>
+<fontsize><p> * افزوده شدن 35 سخن از توماس ادیسون</p></fontsize>
+<fontsize><p> * افزوده شدن 10 سخن از جورج واشنگتن</p></fontsize>
+<fontsize><p> * افزوده شدن 12 سخن از ایزاک نیوتن</p></fontsize>
+<hr width="90%" color="blue">
+<br>
+<fontsize><p align="center" style="font-size:22px;"><b>تغییرات در نسخه 1.4.1 :</b></p></fontsize>
+<hr width="90%" color="#F93">
+<fontsize><p> * افزوده شدن 60 سخن از ارد بزرگ</p></fontsize>
+<fontsize><p> * افزوده شدن 50  سخن از فردریش نیچه</p></fontsize>
+<fontsize><p> * افزوده شدن 22 سخن از ماهاتما گاندی</p></fontsize>
+<fontsize><p> * صحبتهای جدیدی از برنامه نویس</p></fontsize>
+<fontsize><p> * رفع بعضی مشکلات</p></fontsize>
+<hr width="90%" color="blue">
+<br>
+<fontsize><p align="center" style="font-size:22px;"><b>تغییرات در نسخه 1.4 :</b></p></fontsize>
+<hr width="90%" color="#F93">
+<fontsize><p> * شماره گذاری جملات</p></fontsize>
+<fontsize><p> * رفع مشکل نصب و بروزرسانی نسخه های آینده</p></fontsize>
+<fontsize><p> * تغییر در بخش تنظیمات</p></fontsize>
+<fontsize><p> * افزوده شدن 21 سخن از "آنتونی رابینز"</p></fontsize>
+<fontsize><p> * حذف سخنان تکراری</p></fontsize>
+<fontsize><p> * افزوده شدن بخش "زندگینامه کوروش بزرگ" شامل گذر کوتاهی بر زندگی وی با کلیک بر روی نام "کوروش بزرگ" در تیتر بخش سخنان مربوطه</p></fontsize>
+<hr width="90%" color="blue">
+<br>
+<fontsize><p align="center" style="font-size:22px;"><b>تغییرات در نسخه 1.3 :</b></p></fontsize>
+<hr width="90%" color="#F93">
+<fontsize><p> * بهبود سرعت برنامه</p></fontsize>
+<fontsize><p> * جداسازی بزرگان ایرانی و خارجی</p></fontsize>
+<fontsize><p> * رفع مشکل دکمه "تنظیمات"</p></fontsize>
+<fontsize><p> * افزوده شدن بخش "تغییرات"</p></fontsize>
+<fontsize><p> * افزوده شدن بخش "گفته های برنامه نویس"</p></fontsize>
+<fontsize><p> * حذف بخش حمایت مالی</p></fontsize>
+<script>
+	onLoad();
+</script>

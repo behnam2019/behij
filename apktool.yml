@@ -1,0 +1,12 @@
+version: 1.5.2
+apkFileName: Az_Har_Dari_Sokhani_v1.5.4_apktops.ir.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '7'
+packageInfo:
+  cur_package: com.RamzDroid.ADS
+  orig_package: com.RamzDroid.ADS
+compressionType: false

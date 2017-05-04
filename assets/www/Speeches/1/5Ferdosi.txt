@@ -1,0 +1,101 @@
+﻿<center><img src="./Pic/Ferdosi.jpg"/>
+<div style="font-size:15px;">شاعر</div></center>
+<hr width="90%" color="Black">
+<spch><p>1. <span id="10601">دانایی توانایی به بار می آورد  ، و دانش دل کهن سالان را جوان می سازد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','10601')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>2. <span id="10602">گوش شنونده  همیشه در جست و جوی سخن خردمندانه و حکیمانه است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','10602')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>3. <span id="10603">خرد برترین هدیه الهی است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','10603')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>4. <span id="10604">خرد و دانش مرد دانا در گفتار او هویداست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','10604')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>5. <span id="10605">کسی که خرد ندارد همواره از کرده های خویش پشیمان و در رنج است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','10605')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>6. <span id="10606">بی خردی اسارت بدنبال دارد.و خرد موجب آزادی و رهایی است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','10606')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>7. <span id="10607">خرد مانند چشم هستی و جان آدمی است و اگر آن نباشد چگونه جهان را به درستی خواهی گذراند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','10607')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>8. <span id="10608">اولین مرحله شناخت آفرینش همانا خرد است چشم و گوش و زبان سه نگهبان اویند که لاجرم هر چه نیکی و شر است از همین سه ریشه می گیرد.و افسوس که بدنبال کنندگان خرد اندکند باید که به سخن دانندگان راه جست و باید جهان را کاوش نمود و از هر کسی دانشی آموخت و یک دم را هم برای آموختن نباید از دست داد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','10608')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>9. <span id="10609">خداوند درهای هنر را بر روی دانایان دادگر گشوده است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','10609')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>10. <span id=106010"">کسی به فرجام زندگی آگاه نیست ، خداوند هم نیازی به عبادت بنده ندارد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','106010')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>11. <span id=106011"">دانش ارزش آن را دارد که به خاطر آن رنج ها بکشی.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','106011')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>12. <span id=106012"">به این زمین گرد که بسرعت می گردد بنگر که درمان  ما در آن است و درد ما نیز ، نگاه کن و ببین که نه گردش زمانه آن را می فرساید و نه رنج و بهبودی حال بشر آن را به آتش  می کشد ، نه آرام می شود  و نه همچون ما تباهی می پذیرد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','106012')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>13. <span id=106013"">روح و روان  و دل جهان روشن است و زمین را بی دریغ روشن می سازد خورشید از خاور برخاسته بسوی باختر که مسیری درست و بی نظیر است ای آنکه همچون آفتاب لبریز از نور و خردی تو را چه شده است که بر من نمی تابی ؟!!.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','106013')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>14. <span id=106014"">چراغ مایه دفع تاریکی است ، بدی جوهر تاریکی در زندگی آدمی است ، که از آن دوری باید جست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','106014')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>15. <span id=106015"">بی خردی  است، که بگویم  کسی بدی را بی بهانه (دلیل )انجام می دهد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','106015')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>16. <span id=106016"">رنج منتهی به گنج را کسی خریدار نیست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','106016')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>17. <span id=106017"">اگر برای انجام کاری بزرگ ، زمان نداری .بهتر است بی درنگ آن را به دیگران بسپاری.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','106017')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>18. <span id=106018"">کتاب زندگی گذشتگان ، جان تاریک را روشنی می بخشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','106018')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>19. <span id=106019"">این جهان سراسر افسانه است جز نیکی و بدی چیزی باقی نیست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','106019')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>20. <span id=106020"">فرمان ایزد به جهانداران داد و دهش است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','106020')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>21. <span id=106021"">کسی که به آبادانی  می کوشد جهان از او به نیکی یاد می کند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','106021')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>22. <span id=106022"">آنکه آفریننده و با فر است در این جهان رنج های بسیار خواهد خورد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','106022')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>23. <span id=106023"">از بزرگان تنها رنجهاست که باقی می ماند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','106023')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>24. <span id=106024"">جایگاه پرستش گران کوهستان است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','106024')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>25. <span id=106025"">آزادگان را کاهلی ، بنده می سازد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','106025')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>26. <span id=106026"">فرمانرویانی که گوش به فرمان مردم دارند در زندگی جز رامش و آوای نوش نخواهند شنید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','106026')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>27. <span id=106027"">کسی که بر جایگاه خویش منم زد بخت از وی روی بر خواهد تافت.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','106027')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>28. <span id=106028"">خسروی بزرگتر ، بندگی بیشتر می خواهد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','106028')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>29. <span id=106029"">ابلیس مانند نیکخواهان پیش می آید ، ابتدا عهد و پیمان می گیرد ، سپس راز می گوید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','106029')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>30. <span id=106030"">آنگاه که هنر خوار می گردد جادو ارجمند می شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','106030')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>31. <span id=106031"">دیوان که فرمانروا و دست دراز شدند سخن از نیکی را هم  باید مانند راز گفت.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','106031')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>32. <span id=106032"">جز مرگ را ، هیچ کسی از مادر نزاد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onClick="Ersal('فردوسی','106032')"/></center></spch>
+<script>
+	onLoad()
+</script>

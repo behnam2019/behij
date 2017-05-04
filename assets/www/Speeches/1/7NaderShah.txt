@@ -1,0 +1,50 @@
+﻿<center><img src="./Pic/NaderShah.jpg"/>
+<div style="font-size:15px;">پادشاه بزرگ ایرانی</div></center>
+<hr width="90%" color="Black">
+<spch><p>1. <span id="10701">لحظه پیروزی برای من از آن جهت شیرین است كه پیران، زنان و كودكان كشورم را در آرامش و شادان ببینم.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('نادرشاه افشار','10701')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>2. <span id="10702">گاهی سكوتم دشمن را فرسنگها از مرزهای خودش نیز به عقب می نشاند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('نادرشاه افشار','10702')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>3. <span id="10703">كمربند سلطنت، نشان نوكری برای سرزمین من است. نادرها بسیار آمده اند و باز خواهند آمد، اما ایران و ایرانی باید همیشه در بزرگی و سروری باشد؛ این آرزوی تمام عمرم بوده است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('نادرشاه افشار','10703')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>4. <span id="10704">هنگامی كه برخواستم، از ایران ویرانه ای ساخته بودند و از مردم كشورم بردگانی زبون. سپاه من نشان بزرگی و رشادت ایرانیان در طول تاریخ بوده است؛ سپاهی كه تنها به دنبال حفظ كشور و امنیت آن است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('نادرشاه افشار','10704')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>5. <span id="10705">كیست كه نداند مردان بزرگ از درون كاخهای فرو ریخته به قصد انتقام بیرون می آیند؛ انتقام از خراب كننده. ندایی در درونم می گفت : برخیز، ایران تو را فراخوانده است و برخواستم.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('نادرشاه افشار','10705')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>6. <span id="10706">میدان جنگ می تواند میدان دوستی نیز باشد؛ اگر نیروهای دو طرف میدان به حقوق خویش بسنده كنند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('نادرشاه افشار','10706')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>7. <span id="10707">از دشمن بزرگ نباید ترسید، اما باید از صوفی منشی جوانان واهمه داشت. جوانی كه از آرمانهای بزرگ فاصله گرفت، نه تنها كمك جامعه نیست، بلكه [ همچون ] باری به دوش هموطنانش است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('نادرشاه افشار','10707')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>8. <span id="10708">اگر جانبازی جوانان ایران نباشد نیروی دهها نادر هم به جایی نخواهد رسید.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('نادرشاه افشار','10708')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>9. <span id="10709">شاهنامه ی فردوسی خردمند، راهنمای من در تمام زندگی بوده است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('نادرشاه افشار','10709')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>10. <span id="107010">فتح هند باعث سرافرازی نبود؛ برای من دستگیری متجاوزین و سرسپردگانی مهم بود كه بیست سال كشورم را ویران ساخته و جنایت و غارت را در حد كمال بر مردم سرزمینم روا داشتند. اگر در پی افتخار بودم پادشاهان اروپا را به بردگی می گرفتم كه آن هم از جوانمردی و خوی ایرانی من به دور بود.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('نادرشاه افشار','107010')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>11. <span id="107011">هر سربازی كه بر زمین می افتد و روحش به آسمان پر می كشد نادر می میرد و به گور سیاه می رود. نادر به آسمان نمی رود، نادر آسمان را برای سربازانش می خواهد و خود بدبختی و سیاهی را. او همه ی این فشارها را برای به ثمر رساندن ایران بزرگ به جان می خرد؛ پیشرفت و به قدرت رسیدن ایران تنها عاملی است كه فریاد حمله را از گلوی غمگینم به در می آورد و مرا بی پروا به قلب سپاه دشمن می راند...</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('نادرشاه افشار','107011')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>12. <span id="107012">برای زمینهای كشورم هیچ زمان گفتگو نمی كنم، بلكه آن را با قدرت فرزندان كشورم به دست می آورم.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('نادرشاه افشار','107012')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>13. <span id="107013">سكوت شمشیری است كه من همیشه از آن بهره جسته ام.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('نادرشاه افشار','107013')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>14. <span id="107014">تمام وجودم را برای سرفرازی میهن بخشیدم، به این امید كه افتخاری ابدی برای كشورم كسب كنم.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('نادرشاه افشار','107014')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>15. <span id="107015">خردمندان و دانشمندان سرزمینم؛ آزادی زمینهای كشور با سپاه من و تربیت نسلهای آینده با شما. اگر سخن شما مردم را آگاهی بخشد دیگر نیازی به شمشیر نادرها نخواهد بود.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('نادرشاه افشار','107015')"/></center></spch>
+<script>
+	onLoad()
+</script>

@@ -1,0 +1,338 @@
+﻿<center><img src="./Pic/OrodeBozorg.jpg"/>
+<div style="font-size:15px;">اندیشمند و خردمند ایران زمین</div></center>
+<hr width="90%" color="Black">
+<spch><p>1. <span id="10201">آه و بردباری، ریشه هر دیوزاد و بدخویی را از بین خواهد برد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','10201')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>2. <span id="10202">آن كه در بیراهه قدم بر می دارد، آرمان و هدف خویش را گم كرده است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','10202')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>3. <span id="10203">درون ما با تمام جزئیات از نگاه تیزبین اهل خرد پنهان نیست.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','10203')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>4. <span id="10204">ریش سفید، داراترین به اندیشه است نه به زر.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','10204')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>5. <span id="10205">كلید رازهای بزرگ در ژرفای كمی نیست.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','10205')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>6. <span id="10206">درون ما از نگاه تیزبین خردمندان پنهان نیست.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','10206')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>7. <span id="10207">در هر سرنوشتی، راز و اندیشه ای نهفته است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','10207')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>8. <span id="10208">كسی كه كردار شایسته را زیر پا می گذارد، توانایی این را نمی یابد كه قدم بر نخستین پله پیروزی بگذارد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','10208')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>9. <span id="10209">عشق همچون توفان سرزمین غبار گرفته، وجود را پاك می كند و [ در پی آن ] انگیزه رشد و باروری روزافزون می گردد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','10209')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>10. <span id="102010">زاد روز ما با تاری نادیدنی به هزاران زاد روز دیگر گره خورده است. مرگ هم زاد روزی است همانند زاده شدن كه بدرودی به جهانی دیگر است... .</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102010')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>11. <span id="102011">با فریب شاید بتوان چیزی بدست آورد، اما در نهایت همان دستاورد مایه تباهی خواهد بود.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102011')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>12. <span id="102012">اهل بازار بر این باور اشتباهند كه فرهنگ را هم می توان با زمان بندی دگرگون ساخت!</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102012')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>13. <span id="102013">افراد پلیدی هستند كه با زمان سنجی مناسب از نگرانی های همگانی بهره می برند و خود را یك شبه ناجی مردم معرفی می كنند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102013')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>14. <span id="102014">همیشه آن كه با شما هم آوا می شود و سخن شما را تكرار می كند نمی تواند هم فكر شما نیز باشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102014')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>15. <span id="102015">چه بسیار آدمیان نادانی كه مهربانی شایستگان را بر نمی تابند. آنها در نهایت یا به بردگی تیزدندانان گرفتار آیند و یا چهره زشت تنهایی را آشكارا ببینند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102015')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>16. <span id="102016">نگاه مردان كهن ایستا نیست؛ آنها دورانهای آینده را نیز به خوبی می بینند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102016')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>17. <span id="102017">رسانه تنها می تواند پژواك ندای مردم باشد، نه اینكه به مردم بگوید شما چه بگویید كه خوشایند ما باشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102017')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>18. <span id="102018">اهل سیاست پاسخگو هستند! البته تنها به پرسشهایی كه دوست دارند!!!.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102018')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>19. <span id="102019">هیچ رخدادی از اندیشه ما پاك نخواهد شد؛ چه زشت و چه زیبا. تنها گذر زمان است كه آنها را كمرنگ می كند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102019')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>20. <span id="102020">رسیدن به راستی و درستی چندان سخت و پیچیده نیست؛ كافی است كمی به خوی كودكی برگردیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102020')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>21. <span id="102021">جریان های آلوده به مرداب خواهند رسید؛ [ از این رو ] سخن گفتن از آنها زندگی مان را تباه می سازد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102021')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>22. <span id="102022">آرمان ما نباید موجب نابودی دیگران شود. آرمانی ارزشمند است كه بهروزی ما و دیگران را در پی داشته باشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102022')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>23. <span id="102023">ناراستی هایمان را بپذیریم؛ چرا كه بهانه آوردن، سنگینی آنها را دو چندان می كند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102023')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>24. <span id="102024">اندیشه همه گیر مردمی همیشگی نیست، زیرا همواره دستخوش دگرگونی به دست جوانان پس از خود است. ورود جوانان به تدریج آرمانهای نو پدید می آورد و اگر آرمان گذشتگان نتواند خود را بازسازی كند ناگریز نابود می شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102024')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>25. <span id="102025">میهن دوستی، دسته و گروه نمی خواهد! این خواستی همه گیر است؛ كه اگر جز این باشد باید در شگفت بود.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102025')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>26. <span id="102026">ابله ترین آدمیان كسانی هستند كه با مسخره كردن شایستگان شاد می شوند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102026')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>27. <span id="102027">آدمیانی اندك، تنها به هدف می اندیشند! و بسیار كسان كه هدفشان جز خانه نشین كردن همان گروه و دسته ی كوچك نیست.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102027')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>28. <span id="102028">پیشرفت، تنها در سایه ی آمادگی همیشگی ما به دست می آید.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102028')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>29. <span id="102029">بزرگترین اشتباه و چاله ی زندگی یك [ فرد ] زیاده خواه در آن است كه پیش از كسب آمادگی لازم، پشت میز مدیریت بنشیند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102029')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>30. <span id="102030">پادشاهی كه مردمش از او فروتر بنشینند در فزونی و برتری نیست؛ او در ته چاه كبر و خودبینی فرو افتاده است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102030')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>31. <span id="102031">دوستی تنها برآیند نیاز ما نیست؛ از خودگذشتگی، نخستین پایه دوستی است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102031')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>32. <span id="102032">ستایشگران میهن، زنان و مردان آزاده اند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102032')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>33. <span id="102033">اندیشمندان را شاید بتوان نادیده گرفت و یا به زور خفه نمود، اما تاریخ، گواه هزاران سال فریاد رسای آنان بوده و هست.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102033')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>34. <span id="102034">هیچ گاه از راستی و درستی خویش آزرده مباش؛ چون همیشه در انتهای هر داستان تو برنده هستی!</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102034')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>35. <span id="102035">نخستین گام در راه پیروزی، آموختن ادب و نكو داشت دیگران است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102035')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>36. <span id="102036">اسطوره ها زاینده اند! آنها همواره برای فرزندان سرزمین خویش امید به ارمغان می آورند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102036')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>37. <span id="102037">مردانی كه بیشتر از حقوق و هنجار زنها پشتیبانی می كنند، خود بیشتر از دیگران به نهاد زن می تازند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102037')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>38. <span id="102038">در هر سرنوشتی، رازی مهم فرو نهفته است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102038')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>39. <span id="102039">سرود هستی آهنگی ملایم و كشیده دارد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102039')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>40. <span id="102040">خودآختگی قابلیتی است كه بسیاری ندارند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102040')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>41. <span id="102041">در زمان نكوهش هنگامه ی باران، به بهره اش نیز بیاندیش.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102041')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>42. <span id="102042">روان مردگان و زندگان در یك ظرف در حال چرخش اند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102042')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>43. <span id="102043">در كنارمان دلبر هست و اگر نیست، در سفر رسیدن به اویم؛ پس تنهایی وجود ندارد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102043')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>44. <span id="102044">تنها آرمانهای بزرگ است كه به ما بینشی فرا دنیوی می دهد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102044')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>45. <span id="102045">گذشتن از سختی های پیش رو، چندان سخت تر از آن چه پشت سر گذاشته ایم نخواهد بود.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102045')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>46. <span id="102046">جهان همواره در حال دگرگونی و رشد است؛ نباید این پویندگی را زشت دانست، باید همراه بود و سهمی از این رشد را بر عهده داشت.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102046')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>47. <span id="102047">امروز به شمار نویسندگان، وب نوشت های اینترنت، بنگاه سخن پراكنی و خبرگزاری ایجاد شده است. پنهان سازی خبری در جهان امروز بسیار خنده آور و كودكانه است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102047')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>48. <span id="102048">ناراستی ها پیشاپیش رو به مرگ و نیستی اند، مگر آنكه ما آنها را در اندیشه و روان خویش زنده نگاه داریم.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102048')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>49. <span id="102049">واژه ها سرشار از پندارها است؛ ارزش آنها همپای زندگی است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102049')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>50. <span id="102050">انتخاب امروز ما، برآیند اندیشه ها و راه بسیار درازی است كه تاكنون از آن گذشته ایم. این انتخاب می تواند سیمای جدیدی را از ما به نمایش بگذارد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102050')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>51. <span id="102051">وقتی ناگهان رخداد مهمی از درون دستگاه اداری كشور به رسانه ها كشیده می شود، نكته بسیار مهمتری از دید رسانه ها پنهان می ماند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102051')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>52. <span id="102052">آنگاه كه زایش راهی نو را در درون خویش احساس كردی، پای در راهی خواهی گذارد كه پیش تر برای رسیدن بدان بسیار تلاش كرده ای.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102052')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>53. <span id="102053">گاهی آدمها تا جایی به هم نزدیك می شوند كه دیگر یكدیگر را نمی بینند! شاید دوری بتواند دوباره موجب شناخت درست آنها از یكدیگر شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102053')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>54. <span id="102054">زندگی، میدان ادامه ی راه اشتباه نیست؛ هر گاه پی به ناراستی راه خود بردیم باید به ریشه و بن پاكی خویش باز گردیم، نه آنكه با اشتباهی دیگر آن را ادامه دهیم كه برآیند آن، از دست دادن همه عمر است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102054')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>55. <span id="102055">به آرزوهای خود ایمان بیاورید و به گونه ای به آنها بیندیشید كه گویی به زودی رخ می دهند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102055')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>56. <span id="102056">كسی كه آدم پیش رویش را آن گونه كه هست نمی بیند، خیلی زود به مرز جدایی می رسد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102056')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>57. <span id="102057">با گفتن واژه هایی همانند نمی توانم! و یا نمی شود! هر روز پس تر می روید.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102057')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>58. <span id="102058">تواناترین افراد در بیشتر زمانها خود را ناتوان می یابند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102058')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>59. <span id="102059">انسانها را آنگونه كه هستند بخواهیم نه آنگونه كه می خواهیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102059')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>60. <span id="102060">اندیشه و انگاره ی بیمار، آینده را تیره و تار می بیند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102060')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>61. <span id="102061">تنها راه ماندگاری هر مراوده ی دوستانه ای، درك درست حقایق شخص مقابل است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102061')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>62. <span id="102062">اگر هدف زندگی روشن باشد، دهها راه بن بست نیز نمی تواند ما را از پیش رفتن به سوی آن باز دارد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102062')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>63. <span id="102063">آنچه رخ داده را باید پذیرفت، اما آنچه روی نداده را می توان به میل خویش ساخت.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102063')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>64. <span id="102064">خویش را خوار نكنیم و ارزشمندش بداریم؛ بدین گونه است كه در برابر یاوه گویان می ایستیم و پاسخ شان را می دهیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102064')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>65. <span id="102065">آن كه مدام از كمبودها و ناراستی های زندگی خویش سخن می گوید، دوست خوبی برای تو نخواهد بود.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102065')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>66. <span id="102066">خیال پردازی كه عملگرا هم باشد می تواند سرچشمه ی دگرگونی های بسیار گردد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102066')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>67. <span id="102067">با كسی گفتگو كن كه رسیدن به خرد و آگاهی، اندیشه ی اوست نه خویشتن خویش.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102067')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>68. <span id="102068">زمانی می توانید كسی را از راهی بازدارید كه ابتدا هدفش را دگرگون ساخته باشید. تا كسی هدفش دگرگون نگردد شما راه به جایی نخواهید برد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102068')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>69. <span id="102069">آتش خشم را با آب سكوت خاموش كن.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102069')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>70. <span id="102070">قوم بی نیا و مرد كهن، به هزار آیین اهریمنی اداره می شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102070')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>71. <span id="102071">نگاه زمینیان، تهی از انوار آسمانیان است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102071')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>72. <span id="102072">اگر نتوانیم به خاندان خویش آرایشی سامان یافته دهیم، همیشه در خانه ایی بی حصار زندگی می كنیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102072')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>73. <span id="102073">در برف، سپیدی آشكار است. آیا تن به آن می دهی؟ بسیاری با نمایی سپید، در ژرفنای [ وجود ] خود نیستی را پرورش داده اند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102073')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>74. <span id="102074">ریش سفیدان، زنجیر ارتباط نسلها هستند و قوم بدون ریش سفید، گذشته ای كمرنگ دارد و آیین های به جای مانده به هزار گونه تفسیر می شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102074')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>75. <span id="102075">سفر، نای روان است برای اندیشه و آرمان بزرگ.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102075')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>76. <span id="102076">برای مقدس شمردن، بیداری و آگاهی لازم است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102076')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>77. <span id="102077">تلاش های سیاسی برای جوانان، مردابی مرگبار است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102077')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>78. <span id="102078">نرمش و سازگاری با گیتی، ما را از هر كمین دلهره آوری نجات خواهد بخشید.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102078')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>79. <span id="102079">پشتیبانی از داشته دیگران، پشتیبانی از داشته خود ماست.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102079')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>80. <span id="102080">اهل خرد، پیشتاز روزگار خویش اند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102080')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>81. <span id="102081">نادانی و پستی یك نفر در گذشته نمی تواند میدان انتقام از خاندان او باشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102081')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>82. <span id="102082">خودخواه، تجربه سخت تنهایی را پیش رو دارد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102082')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>83. <span id="102083">با بردباری همه چیز در چنگ توست.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102083')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>84. <span id="102084">بزرگترین نابكاری آن است كه بپنداریم برای آنكه برترین باشیم باید دست به ویرانگری چهره دیگران بزنیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102084')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>85. <span id="102085">برای ربودن دلهای آدمیان باید بر هم پیشی بگیریم و این زیباترین مسابقه زندگی است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102085')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>86. <span id="102086">موشكافی در شكست، پیشرفت در پی خواهد داشت.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102086')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>87. <span id="102087">برای كامیابی همواره نگاهت به راستی باشد و درستی.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102087')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>88. <span id="102088">برای دلهره شبانگاهان، نسیم گرمابخش خرد را همراه كن.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102088')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>89. <span id="102089">برای به دست آوردن گنج خموشی، بارگاه دانش خود را بزرگتر ساز.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102089')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>90. <span id="102090">برای ماندگاری، پنداری جز پاكی روان نداشته باش.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102090')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>91. <span id="102091">برای گردش دو روزه، توشه ای سه روزه همراه ببر و اگر توان رسیدن به خواسته زندگی ات را دو هزار گام می دانی، خود را آماده پیمودن سه هزار گام بنما، چرا كه شتاب در هنگام رهسپاری نباید كم شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102091')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>92. <span id="102092">برای آنكه به پایین پرتاب نشوی، دست گیر آدمیان شو.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102092')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>93. <span id="102093">برای آنكه پرواز كنی، پیكر خویش را به حال خود رها مكن.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102093')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>94. <span id="102094">پیش نیاز رسیدن به دلیری و بی باكی، یافتن آرمان و خواسته ای روشن است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102094')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>95. <span id="102095">پیران دنیا دیده، سدی برای گفتگو برپا نمی كنند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102095')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>96. <span id="102096">پرسش روشن شاگرد از پاسخ استاد ارزشمندتر است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102096')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>97. <span id="102097">پرتگاه می تواند برآورنده روان و یا كشنده تن باشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102097')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>98. <span id="102098">پشیمانی، اولین گام برای پوزش است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102098')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>99. <span id="102099">كارمندان نابكار بیشتر از دزدان و آشوبگران به كشور آسیب می رسانند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','102099')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>100. <span id="1020100">جایگاه ارزیابی و نقد شما بر كاركرد دیگران می تواند شروع نخستین گام شما برای سازندگی باشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','1020100')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>101. <span id="1020101">نیكی برآیند خرد است در دل و روان آدمی.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','1020101')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>102. <span id="1020102">از سفر كرده، ارزش سرزمین مادری را بپرس.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','1020102')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>103. <span id="1020103">آب و هوا بر جهان بینی، پبوندهای مردمی و اندیشه ما تاثیرگذار است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','1020103')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>104. <span id="1020104">هر قدر به دیگران احترام بگذاریم، به ما احترام خواهند گذاشت.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','1020104')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>105. <span id="1020105">مستمند كسی است كه دشواری و سختی ندیده باشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','1020105')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>106. <span id="1020106">در هستی، جنبش حشرات هم چهار چوبی دارد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','1020106')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>107. <span id="1020107">انسانهای ماندگار به چیزی جز آرمان نمی اندیشند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','1020107')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>108. <span id="1020108">دل به همدلی خوش است نه به شكستن.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','1020108')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>109. <span id="1020109">هنرمندان و خردمندان قهرمانان ناب روزگارند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','1020109')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>110. <span id="1020110">هر آرزویی بدون پژوهش و تلاش، سترون (عقیم) باقی می ماند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','1020110')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>111. <span id="1020111">آزادی، دادن باج به مردم نیست! چرا كه مال و داشته آنها است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('ارد بزرگ','1020111')"/></center></spch>
+<script>
+	onLoad()
+</script>

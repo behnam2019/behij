@@ -1,0 +1,380 @@
+﻿<center><img src="./Pic/Kourosh.jpg"/>
+<div style="font-size:15px;">پادشاه بزرگ ایرانی</div></center>
+<hr width="90%" color="Black">
+<spch><p>1. <span id="10101">آنان که با افکاری پاک و فطرتی زیبا در قلب دیگران جای دارند را هرگز هراسی از فراموشی نیست چرا که جاودانند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','10101')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>2. <span id="10102">فرمان دادم تا بدنم را بدون تابوت و مومیایی به خاک بسپارند تا اجزاء بدنم ذرات خاک ایران را تشکیل دهد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','10102')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>3. <span id="10103">باران باش و ببار و نپرس کاسه های خالی از آن کیست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','10103')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>4. <span id="10104">من به خاطر ندارم در هیچ جهادی برای عزت و کسب افتخار ایران زمین مغلوب شده باشم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','10104')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>5. <span id="10105">همیشه با هم یکدل و صمیمی بمانید تا اتحادتان موید و پایدار بماند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','10105')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>6. <span id="10106">حرمت قانون را بر خود واجب شمارید و خصایل و سنن قدیمی را گرامی بدارید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','10106')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>7. <span id="10107">کارتان را آغاز کنید، توانایی انجامش بدنبال می آید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','10107')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>8. <span id="10108">هر برادری که از منافع برادر خود مانند نفع خویش حمایت کرد به کار خود سامان داده است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','10108')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>9. <span id="10109">به احترام روح من که باقی و ناظر بر احوال شماست به انچه دستور میدهم عمل کنید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','10109')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>10. <span id="101010">وقتی توبیخ را با تمجید پایان می دهید، افراد درباره رفتار و عملکرد خود فکر می کنند، نه رفتار و عملکرد شما.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101010')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>11. <span id="101011">خداوندا دستهایم خالی است ودلم غرق در آرزوها .یا به قدرت بیکرانت دستانم را توانا گردان یا دلم را ازآرزوهای دست نیافتنی خالی کن.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101011')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>12. <span id="101012">دستانی که کمک می کنند پاکتر از دستهایی هستند که رو به آسمان دعا می کنند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101012')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>13. <span id="101013">اگر میخواهید دشمنان خود را تنبیه کنید به دوستان خود محبت کنید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101013')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>14. <span id="101014">آنچه جذاب است سهولت نیست، دشواری هم نیست، بلکه دشواری رسیدن به سهولت است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101014')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>15. <span id="101015">سخت کوشی هرگز کسی را نکشته است، نگرانی از آن است که انسان را از بین می برد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101015')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>. اگ<span id="101016">ر همان کاری را انجام دهید که همیشه انجام می دادید، همان نتیجه ای را می گیرید که همیشه می گرفتید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101016')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>17. <span id="101017">افراد موفق کارهای متفاوت انجام نمی دهند، بلکه کارها را بگونه ای متفاوت انجام می دهند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101017')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>18. <span id="101018">پیش از آنکه پاسخی بدهی با یک نفر مشورت کن ولی پیش از آنکه تصمیم بگیری با چند نفر.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101018')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>19. <span id="101019">کار بزرگ وجود ندارد، به شرطی که آن را به کارهای کوچکتر تقسیم کنیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101019')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>20. <span id="101020">انسان همان می شود که اغلب به آن فکر می کند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101020')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>21. <span id="101021">همواره بیاد داشته باشید آخرین کلید باقیمانده، شاید بازگشاینده قفل در باشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101021')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>22. <span id="101022">تنها راهی که به شکست می انجامد، تلاش نکردن است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101022')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>23. <span id="101023">عمر شما از زمانی شروع می شود که اختیار سرنوشت خویش را در دست می گیرید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101023')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>24. <span id="101024">آفتاب به گیاهی حرارت می دهد که سر از خاک بیرون آورده باشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101024')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>25. <span id="101025">وقتی زندگی چیز زیادی به شما نمی دهد، بخاطر این است که شما چیز زیادی از آن نخواسته اید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101025')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>26. <span id="101026">دشوارترین قدم، همان قدم اول است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101026')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>27. <span id="101027">من یاور یقین و عدالتم من زندگی ها خواهم ساخت، من خوشی های بسیار خواهم آورد من ملتم را سربلند ساحت زمین خواهم کرد، زیرا شادمانی او شادمانی من است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101027')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>28. <span id="101028">شهریاری که نداند شب مردمانش چگونه به صبح میرسد گورکن گمنامی است که دل به دفن دانایی بسته است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101028')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>29. <span id="101029">مردمان من امانت آسمانند بر این خاک تلخ. مردمان من خانمان من اند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101029')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>30. <span id="101030">باورها و هر آنچه از دیدگان اندیشه هایمان می گذرد را به زنجیر می کشند. </span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101030')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>31. <span id="101031">بیادتان مى آورم تا همیشه بدانید که زیباترین منش آدمى ، محبت اوست پس ؛محبت کنید چه به دوست ، چه به دشمن! که دوست را بزرگ کند و دشمن را دوست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101031')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>32. <span id="101032">ای پسر من نیکو کار باش نه بدکار زیرا زندگانی انسان جاودان نیست و هیچ چیز از کردار نیک لازمتر نمی‌باشد</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101032')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>33. <span id="101033">ای پسر من بشنو تو را می‌گویم که بهترین بخشش‌ها تعلیم و تعلم است زیرا مال و مکنت زوال پذیرد و چهار پایان بمیرند ولی دانش و تربیت باقی ماند</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101033')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>34. <span id="101034">دختر شرمگین(با حیا) را دوست بدار و او را به مرد هوشیار و دانایی به عروسی ده زیرا مرد دانا و هوشیار مانند زمین نیکی است که چون تخم در آن بکارند حاصل نیک و فراوان از آن به عمل آید</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101034')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>35. <span id="101035">با زن فرزانه و شرمگین عروسی کن و او را دوست بدار وخود برای خود زن انتخاب کن وزن دیگری را فریب مده تا روانت گناه کار نگردد</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101035')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>36. <span id="101036">مردی را به دامادی خود برگزین که نیکخو درست و دانا باشد اگر بسیار مسکین است بسیار عیب نیست مال و مکنت از یزدان برسد</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101036')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>37. <span id="101037">چون خوشی رسد بسیار خشنود و غره مشو و چون سختی رسد غمگین و افسرده مباش زیرا هر خوشی یک ناخوشی و هر نیکی یک بدی در پی دارد</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101037')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>38. <span id="101038">از پست فطرت و بد اصل قرض مگیر و وام مده زیرا تنزیل زیاد باید داد و همواره بر در خانه تو بایستد و کسان بگمارد و این برای تو زیان بزرگی است</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101038')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>39. <span id="101039">به مال و مکنت کسی چشم مینداز زیرا مال و خوشی جهان مانند مرغی است که از این درخت به آن درخت نشیند و به هیچ شاخی نماند</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101039')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>40. <span id="101040">دست از دزدی و کاهلی و هوا و هوس نفسانی بدار زیرا هر کس که نیکی کند پاداش نیکی یابد و هر که بدکار گشت به سزای سخت خواهد رسید</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101040')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>41. <span id="101041">نسبت به پدر و مادر خود فرمانبردار باش زیرا مرد تا پدر و مادرشزنده اند مانند شیری است که آسوده در بیشه غنوده و از هیچ کس بیم ندارد</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101041')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>42. <span id="101042">به رئیس و سردار خود گستاخ مباش و در خدمت استوار بایست آچه برخود نیک ندانی به دیگران نیز نیک نشمار با دوستان به یگانگی برخورد کن</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101042')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>43. <span id="101043">اگر تو را فرزندی است به مدرسه بفرست و به تحصیل علم بگمار زیرا علم ودانش چشم روشن است</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101043')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>44. <span id="101044">عصبانی مباش زیرا مرد عصبانی مانند آتش است که در بیشه برافروزد و تر و خشک را با هم بسوزاند</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101044')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>45. <span id="101045">دشمن کهنه را دوست نو مساز زیرا دشمن کهنه مانند مار سیاه است که بعد از صد سال انتقام را فراموش نکند</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101045')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>46. <span id="101046">مغرور و خودپسند مباش زیرا انسان مغرور چون مشک پر باد است و اگر باد آن خالی شود چیزی باقی نماند</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101046')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>47. <span id="101047">آنچه را که گذشته است فراموش کن و به آنچه که نرسیده رنج و اندوه مبر</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101047')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>48. <span id="101048">در مجالس در صدر منشین تا تو را از آنجا بلند نکنند و به جای پایین تری بنشانند</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101048')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>49. <span id="101049">سخن بموقع بگو زیرا بسا تکلم بهتر از خاموشی و بسا خاموشی بهتر از تکلم است</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101049')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>50. <span id="101050">ای پسر من تو را می‌گویم بهترین چیزها برای سخاوت تعلیم و تربیت مردم است</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101050')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>51. <span id="101051">از هر خوراک مخور و زود به زود به مجلس عیش بزرگان مرو که پسندیده نیست</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101051')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>52. <span id="101052">همیشه و همه جا به خدا توکل کن و دوستی با کسی کن که بیشتر به تو سود رساند</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101052')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>53. <span id="101053">حضور دانشمندان را گرامی‌دار و از ایشان سئوال کن و جواب بشنو</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101053')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>54. <span id="101054">با مردی که پدر و مادر از او ناخشنودند همکار مباش تا گناهکار نباشی</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101054')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>55. <span id="101055">از هر کس که با تو کینه ورزد و خشم گیرد کناره جوی</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101055')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>56. <span id="101056">با مرد پاک نظر کارآگاه هوشیار و نیکخو مشورت کن</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101056')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>57. <span id="101057">در جنگ اگر مسئولیتی به عهده تست بسیار مواظب باش</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101057')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>58. <span id="101058">به فرمان یزدان و امشاسپندان گوش کن و رفتار نما</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101058')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>59. <span id="101059">مرد فقیر و بینوا را تمسخر مکن شاید تو نیز روزی بینوا شوی</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101059')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>60. <span id="101060">مرد پارسا در آسایش ماند و بدکار همیشه گرفتار اندوه است</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101060')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>61. <span id="101061">اگر چه افسون مار خوب بدانی ولی دست به مار نزن تا تو را نگزد</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101061')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>62. <span id="101062">اگر چه شناوری به خوبی دانی ولی زیاد در آب مرو تا غرق نشوی</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101062')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>63. <span id="101063">با هیچ کس و به هیچ آیین پیمان شکنی نکن که آسیب به تو نرسد</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101063')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>64. <span id="101064">فرومایه را اعتنا مکن و شخص محترم را در پایه اش پاداش رسان</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101064')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>65. <span id="101065">مردم دارای همان خویی هستند که از زمان شیر خوارگی خود کسب نموده اند</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101065')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>66. <span id="101066">سحر خیز باش تا کار خود را به نیکی به انجام برسانی</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101066')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>67. <span id="101067">دوست کهنه را گرامی‌دار و در دوستی او استوار بایست</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101067')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>68. <span id="101068">یزدان را ستایش کن و دل را شاد ساز تا یزدان نیکی تو را بیافزاید</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101068')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>69. <span id="101069">حکمرانان را نفرین مکن زیرا آنان پاسباتات مردم هستند</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101069')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>70. <span id="101070">هیچ فرازی بدون نشیب و هیچ نشیبی بدون فراز نیست</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101070')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>71. <span id="101071">برای نام خود از کسب و کار احتراز مکن</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101071')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>72. <span id="101072">هر چه شنوی به عجله و بیهوده مگوی</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101072')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>73. <span id="101073">هر کس که برای دیگران چاه کند در آن افتد</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101073')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>74. <span id="101074">کسی را فریب مده تا دردمند نشوی</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101074')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>75. <span id="101075">پیشوای نیک را گرامی‌دار و سخنش بپذیر</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101075')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>76. <span id="101076">جز از خویشان و دوستان چیزی از کسی وام مگیر</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101076')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>77. <span id="101077">نه به راست نه به دروغ هرگز سوگند مخور</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101077')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>78. <span id="101078">چو خواهی عروسی کنی اول مال فراهم کن</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101078')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>79. <span id="101079">از نیک کرداری خود غره مشو ورجز مخوان</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101079')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>80. <span id="101080">به رئیسها و پادشاهان خیانت مکن</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101080')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>81. <span id="101081">از مرد بزرگ و نیک سخن بپرس</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101081')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>82. <span id="101082">با دزدان معامله مکن و آنها را گرفتار نما</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101082')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>83. <span id="101083">از دوزخ یاد آور و کسان را به انصاف مجازات کن</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101083')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>84. <span id="101084">از هر کس و هر چیز مطمئن مباش</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101084')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>85. <span id="101085">فرمان خوب ده تا بهره خوب یابی</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101085')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>86. <span id="101086">بیگناه باش تا بیم نداشته باشی</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101086')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>87. <span id="101087">سپاس دار باش تا لایق نیکی باشی</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101087')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>88. <span id="101088">راستگو باش تا استقامت داشته باشی</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101088')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>89. <span id="101089">متواضع باش تا دوست بسیار داشته باشی</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101089')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>90. <span id="101090">دوست بسیار داشته باش تا معروف باشی</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101090')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>91. <span id="101091">معروف باش تا زندگانی به نیکی گذرانی</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101091')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>92. <span id="101092">دوستدار دین باش تا زندگی به نیکی گذرانی</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101092')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>93. <span id="101093">مطابق وجدان خود رفتار کن که بهشتی شوی</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101093')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>94. <span id="101094">سخی و جوانمرد باش تا پاک و راست گردی</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101094')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>95. <span id="101095">با مرد قدر نشناس و ناسپاس معاشرت مکن</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101095')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>96. <span id="101096">روح خود را با خشم و کین آلوده مساز</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101096')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>97. <span id="101097">در حفظ دین بکوش زیرا سعادت روحانی از آن برسد</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101097')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>98. <span id="101098">در هر گفتار و کار تواضع و ادب را فراموش مکن</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101098')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>99. <span id="101099">هرگز ترشرو و بدخو مباش</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','101099')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>100. <span id="1010100">در انجمن(جمع و گروه) نزد مرد نادان منشین که تو را نادان نشمارند</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010100')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>101. <span id="1010101">دختر خود را به شوهر هوشیار و دانا ده</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010101')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>102. <span id="1010102">اگر خواهی از کسی دشنام نشنوی کسی را دشنام مده</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010102')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>103. <span id="1010103">خود را به بندگی کسی مسپار</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010103')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>104. <span id="1010104">همیشه روح خود را به یاد دار</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010104')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>105. <span id="1010105">قبل از جواب دادن تفکر کن</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010105')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>106. <span id="1010106">هیچ کس را تمسخر مکن</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010106')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>107. <span id="1010107">با مرد بدکار هم راز مشو</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010107')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>108. <span id="1010108">با مرد خشمگین همراه مشو</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010108')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>109. <span id="1010109">با فرومایه مشورت مکن</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010109')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>110. <span id="1010110">با مست هم خوراک مشو</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010110')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>111. <span id="1010111">مرد بدچشم را به معاونت خود قبول مکن</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010111')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>112. <span id="1010112">مال خود را به مرد حسود نشان نده</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010112')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>113. <span id="1010113">از پادشاهان فرمان ناحق مخواه</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010113')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>114. <span id="1010114">از مرد سخن چین و دروغگو سخن مشنو</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010114')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>115. <span id="1010115">در مجازات مردم کینه مورز</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010115')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>116. <span id="1010116">در معبر عام مجادله نکن</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010116')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>117. <span id="1010117">با مرد بسیار متول هم خوراک مشو</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010117')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>118. <span id="1010118">مرد راستگو را برای پیغام بفرست</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010118')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>119. <span id="1010119">برای جاه و مقام مجادله مکن</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010119')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>120. <span id="1010120">از مدد قوی متمول و کینه ورز دور باش</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010120')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>121. <span id="1010121">با مرد ادیب دشمن مباش</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010121')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>122. <span id="1010122">با مرد نادان راز مگوی</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010122')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>123. <span id="1010123">به هیچ کس دروغ مگو</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010123')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>124. <span id="1010124">از بی شرم مال مگیر</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010124')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>125. <span id="1010125">به نزد بدکار چیزی گرو مگذار</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('کوروش بزرگ','1010125')"/></center>
+<script>
+	onLoad()
+</script>

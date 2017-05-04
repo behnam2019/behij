@@ -1,0 +1,44 @@
+﻿<center><img src="./Pic/EbneSina.jpg"/>
+<div style="font-size:15px;">پزشک، شاعر، فیلسوف و دانشمند</div></center>
+<hr width="90%" color="Black">
+<spch><p>1. <span id="10501">هر كس عادت كند كه بدون دلیل هر حرفی را باور كند، از صورت انسانی خارج است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ابو علی سینا','10501')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>2. <span id="10502">موسیقی، صدای خداست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ابو علی سینا','10502')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>3. <span id="10503">انسان، هر زمان از پیشامدِ آینده درباره ی خود اندیشید و از آن، بیم و هراس در خاطرش نِشاند، آن خطر، زودتر او را تعقیب می كند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ابو علی سینا','10503')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>4. <span id="10504">نیك بخت ترین مردم كسی است كه كردار به سخاوت بیاراید و گفتار به راستی.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ابو علی سینا','10504')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>5. <span id="10505">برخی چنان سرگرم میراث علمی گذشتگانند كه فرصت مراجعه به عقل خود را ندارند و اگر فرصتی هم به دست آورند حاضر نیستند اشتباه ها و لغزش های آنان را اصلاح و جبران كنند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ابو علی سینا','10505')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>6. <span id="10506">تعصب در دانش و فلسفه مانند هر تعصب دیگر نشانه ی خامی و بی مایگی است و همیشه به زیان حقیقت تمام می شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ابو علی سینا','10506')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>7. <span id="10507">كسی كه به تمرینهای بدنی می پردازد به هیچ دارویی نیاز ندارد، درمان او در جنبش و حركت است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ابو علی سینا','10507')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>8. <span id="10508">هیچ چیز در دنیا اتفاقی نیست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ابو علی سینا','10508')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>9. <span id="10509">چیزی كه دانش می آراید راستی است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ابو علی سینا','10509')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>10. <span id="105010">اگر توانایی دانشمندان ایران از جهان دانش گرفته شود چیزی جز سیاهی باقی نمی ماند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ابو علی سینا','105010')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>11. <span id="105011">نشان دوست نیكو آن است كه خطای تو را بپوشاند، تو را پند دهد و رازت را آشكار نسازد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ابو علی سینا','105011')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>12. <span id="105012">هر كه دنیا خواهد، دانش آموزد و هر كه آخرت خواهد در عمل كوشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ابو علی سینا','105012')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>13. <span id="105013">اگر می دانستید كه یك محكوم به مرگ هنگام مجازات تا چه حد آرزوی بازگشت به زندگی را دارد، آنگاه قدر روزهایی را كه با غم سپری می كنید، می دانستید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ابو علی سینا','105013')"/></center></spch>
+<script>
+	onLoad()
+</script>

@@ -1,0 +1,77 @@
+﻿<center><img src="./Pic/Hedayat.jpg"/>
+<div style="font-size:15px;">نویسنده، مترجم و روشنفکر</div></center>
+<hr width="90%" color="Black">
+<spch><p>1. <span id="10601">تنها مرگ است که دروغ نمی گوید.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','10601')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>2. <span id="10602">نزد بهترین و قشنگ ترین و باهوش ترین انسان</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','10602')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>3. <span id="10603">همیشه نقص دیده می شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','10603')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>4. <span id="10604">حق به جانب آنهایی است که می گویند بهشت و دوزخ در خود اشخاص است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','10604')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>5. <span id="10605">چقدر هولناک است وقتی که مرگ آدم را نمی خواهد و پس می زند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','10605')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>6. <span id="10606">آنها به من می خندند ، نمی دانند که من بیشتر به آنها می خندم.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','10606')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>7. <span id="10607">کسانی که دست از جان شسته اند و از همه چیز سر خورده اند ، تنها آنان می توانند کارهای بزرگ انجام دهند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','10607')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>8. <span id="10608">برای من بزرگترین معجزه همین است که من وجود دارم.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','10608')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>9. <span id="10609">اگر بشر دست از کشتن حیوانات بردارد ، آدم هم نخواهد کشت.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','10609')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>10. <span id="106010">انسان نه فقط احمق ترین حیوانات است ، بلکه درنده ترین و شریر ترین آنهاست.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','106010')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>11. <span id="106011">دیشب که نمیدانستم به کدام یک از دردهایم بگریم ، کلی خندیدم.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','106011')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>12. <span id="106012">گاه آدمی در بیست سالگی می میرد ولی در هفتاد سالگی به خاک سپرده میشود.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','106012')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>13. <span id="106013">تا دنیا چنین است كه هست ، حقیقت از آن چیزی است كه قدرت نداشته و با قدرت هم كنار نیامده است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','106013')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>14. <span id="106014">زندگی شبیه یك آتشكده است كه باید مرتب مواد مشتعله به آن برسد تا خاموش نگردد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','106014')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>15. <span id="106015">مشکلترین کارها این است که کسی بتواند حقیقت را همانطور که هست بگوید.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','106015')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>16. <span id="106016">مرگ، همه هستی ها را به یک چشم نگریسته و سرنوشت آنها را یکسان میکند نه توانگر می شناسد و نه گدا.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','106016')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>17. <span id="106017">بهشت بزرگترین فریب برای جهنم کردن دنیاست.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','106017')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>18. <span id="106018">تنها مرگ است که دروغ نمی گوید.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','106018')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>19. <span id="106019">مرگ بهترین پناه دردها و غمها و رنج ها و بیدادگری های زندگانی است.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','106019')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>20. <span id="106020">مگر با پول نمی شود حج و نماز و روزه را خرید؟ پس هر کسی پول داشت دو دنیا را داشت!</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','106020')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>21. <span id="106021">انسان خودش از مرگ می‌ترسد، ولی اسباب مرگ دیگران را فراهم می‌آورد.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','106021')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>22. <span id="106022">برای من بزرگترین معجزه همین است که من وجود دارم.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','106022')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>23. <span id="106023">زرپرستی و شکم پرستی، همه احساس های عالیه انسان را خفه میکند.</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','106023')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>24. <span id="106024">دیدار به قیامت. ما رفتیم و دل شما را شکستیم. همین (پشت نوشته یک عکس توسط صادق هدایت که پس از مرگش که به آشنایانش داده شد)</span></p>
+<center><img style="border-style: none" src="./Send1.png"  onClick="Ersal('صادق هدایت','106024')"/></center></spch>
+<script>
+	onLoad()
+</script>

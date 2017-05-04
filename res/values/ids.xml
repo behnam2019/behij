@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="exit">false</item>
+    <item type="id" name="DonationApp">false</item>
+    <item type="id" name="Feedback">false</item>
+</resources>

@@ -1,0 +1,227 @@
+﻿<center><img src="./Pic/Hugo.jpg"/>
+<div style="font-size:15px;">شاعر فرانسوی، داستان نویس، درام نویس و بنیانگذار مکتب رومانتیسم</div></center>
+<hr width="90%" color="Black">
+<spch><p>1. <span id="20401">خنده کوتاهترین فاصله بین دو نفر است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','20401')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>2. <span id="20402">هرگز در میان موجودات مخلوقی که برای کبوتر شدن آفریده شده کرکس نمیشود. این خصلت در میان هیچ یک از مخلوقات نیست جز آدمیان. </span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','20402')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>3. <span id="20403">آن هنگام که روحم عاشق جسمم شد و جفت گیری این دو سر گرفت من بار دیگر متولد شدم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','20403')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>4. <span id="20404">الماس را جز در قعر زمین نمی توان یافت و حقایق را جز در اعماق فکر نمی توان کشف کرد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','20404')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>5. <span id="20405">پیروزی واقعی جان آدمی، فکرکردن است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','20405')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>6. <span id="20406">زیبائی که با فضیلت توام نباشد، گل بی عطر وبوئی را ماند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','20406')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>7. <span id="20407">هر آموزشگاهی را که باز کنید، در زندانی را بسته اید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','20407')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>8. <span id="20408">می گوید دوستت دارم ودیگر هنگامی که برای اولین بار به روی نوزادش لبخند می زند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','20408')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>9. <span id="20409">انسان در عالم چون شبح سرگردانی است که در عبور از این راه حیاتی سایه ای از خود به یادگار نمیگذارد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','20409')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>10. <span id="204010">من اشخاص زنده را آنانی می دانم که مبارزه می کنند. بی مبارزه زندگی مرگ است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204010')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>11. <span id="204011">خنده حد فاصل میان انسانها را کم می کند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204011')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>12. <span id="204012">نمی دانید تا چه حد اعتماد به نفس باعث اعتماد به هر چیز دیگر می‌شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204012')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>13. <span id="204013">بدبختی مربی استعداد است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204013')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>14. <span id="204014">کینه و تنفر را به کسانی واگذار کنید که نمی‌توانند دوست بدارند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204014')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>15. <span id="204015">بهترین دوستان من کسانی هستند که پیشانی و ابروهای آنها باز است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204015')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>16. <span id="204016">از کوچکی می‌خواستم بزرگ باشم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204016')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>17. <span id="204017">آنان که نمی‌توانند خود را اداره کنند، ناچار به پیروی از دیگرانند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204017')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>18. <span id="204018">همیشه با زیر دستان خود با مهربانی و دوستی رفتار کنید، زیرا قلب بخشنده و مهربان، بزرگترین سرمایه است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204018')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>19. <span id="204019">ایمان داشته باش که کوچکترین محبت‌ها از ضعیف ترین حافظه‌ها پاک نمی‌شوند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204019')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>20. <span id="204020">هر قدر روح آدمی‌لطیف تر و منش او عالی تر باشد، میزان یاری بیشتر خواهد بود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204020')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>21. <span id="204021">مردم، توان و نیرو دارند؛ اراده ندارند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204021')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>22. <span id="204022">هیچ عاملی همچون رؤیا آینده ساز نیست؛ آرزوهای امروز حقایق فردایند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204022')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>23. <span id="204023">دانشمند کسی است که بکوشد تا از درد و رنج خود بکاهد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204023')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>24. <span id="204024">یک زن کامل کسی است که بداند چگونه فرمانروایی کند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204024')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>25. <span id="204025">یک پرنده ی کوچک که زیر برگها آواز می‌خواند برای اثبات خدا کافی است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204025')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>26. <span id="204026">هدف هنر امروز، زندگی است نه زیبایی.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204026')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>27. <span id="204027">وقتی که کیسه خالی شد، دل پر می‌شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204027')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>28. <span id="204028">مسافرت به منزله ی هر لحظه مردن و زنده شدن است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204028')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>29. <span id="204029">مرگ مهم نیست، خوشبخت نبودن مهمترین چیزها است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204029')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>30. <span id="204030">مانند پرنده باش که روی شاخه سست و ضعیف لحظه ای می‌نشیند و آواز می‌خواند و احساس می‌کند که شاخه می‌لرزد، اما به آواز خواندن خود ادامه می‌دهد زیرا مطمئن است که بال و پر دارد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204030')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>31. <span id="204031">گسیختن رشته ی علایق فرزندی، غریزه ی برخی از خانواده‌های بینوا است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204031')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>32. <span id="204032">کتاب، جام جهان نما است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204032')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>33. <span id="204033">خشک سالی و بیماری در مقام مقایسه با جنگ، چیزی نیست زیرا خود این دو نیز ناشی از پیامدهای دشوار و ناهنجار جنگ هستند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204033')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>34. <span id="204034">علت اینکه ما از موسیقی خوشمان می‌آید این است که در دنیای رؤیاهای خود فرو می‌رویم. سرشت‌های عالی، موسیقی را دوست می‌دارند، اما بهتر می‌دانند که از آن به عنوان ابزاری برای رسیدن به رؤیاهای خویش استفاده کنند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204034')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>35. <span id="204035">عذاب وجدان، بدتر از مرگ در بیابان سوزان است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204035')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>36. <span id="204036">صالح ترین فرزندان آنهایی هستند که با اعمال خود باعث افتخار پدر و مادر خود شوند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204036')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>37. <span id="204037">در هر ملت چراغی هست که به همه ی افراد نور می‌دهد و آن، آموزگار است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204037')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>38. <span id="204038">دروغ جلوه ای از شیطان است زیرا شیطان دو نام دارد: یکی شیطان و دیگری دروغ.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204038')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>39. <span id="204039">دانشمندان، علماء و بزرگان، هر یک نردبانی برای پیشرفت دارند، اما شاعران و هنرمندان، این مدارج را پروازکنان می‌پیمایند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204039')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>40. <span id="204040">خوشبخت کسی است که به یکی از این دو چیز دسترسی دارد، یا کتاب‌های خوب و یا دوستانی که اهل کتاب باشند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204040')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>41. <span id="204041">خدمت به وطن نیمی‌از وظیفه است و خدمت به انسانیت، نیم دیگر آن.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204041')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>42. <span id="204042">بدتر از مرگ چیست؟ آن که پس از آمدنش مرگ را می‌جویی.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204042')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>43. <span id="204043">باید درهای دانش به روی همه باز باشد، هرجا مزرعه هست، هرجا بشر هست، آنجا کتاب هم باید باشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204043')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>44. <span id="204044">از آن در شگفتم که در سینه دلی دارند و می‌پندارند که آسایش و سعادت بشر جز مهر و صفا راه دیگری هم دارد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204044')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>45. <span id="204045">ادبیات، راز پنهانی تمدن و شعر، راز پوشیده ی آرزوها است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204045')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>46. <span id="204046">آینده ی کودکان بسته به تربیت پدر و مادر است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204046')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>47. <span id="204047">همه جا شادمانی قشر نازکی است که روی رنج و بیچارگی کشیده اند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204047')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>48. <span id="204048">وقتی نتیجه ی انتخابات آشکار شد، یعنی رأی بالاترین مرجع آشکار شده است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204048')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>49. <span id="204049">فلسفه، میکروسکوپ اندیشه‌ها است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204049')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>50. <span id="204050">فکر کردن، شغل ذهن است، خواب دیدن، تفریح آن.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204050')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>51. <span id="204051">فقر و مسکنت، مردها را به جنایت و زنها را به فحشا سوق می‌دهد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204051')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>52. <span id="204052">شاید بتوان از هجوم سیل آسای یک ارتش ممانعت کرد، اما از هجوم اندیشه‌ها و باورها نمی‌توان جلوگیری نمود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204052')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>53. <span id="204053">در بینوایی همچنان که در سرما نیز دیده می‌شود، افراد به یکدیگر فشرده می‌گردند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204053')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>54. <span id="204054">خدا فقط آب را آفرید، انسان شراب را.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204054')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>55. <span id="204055">جسد دشمنی را که تشییع می‌کنی سنگین نیست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204055')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>56. <span id="204056">تعارف و خوش آمدگویی، چیزی مانند بوسیدن از روی چادر است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204056')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>57. <span id="204057">به مرگ راضی شدن، به پیروزی دست یافتن است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204057')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>58. <span id="204058">بهشت دولتمندان از دوزخ فقرا پدید آمده است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204058')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>59. <span id="204059">چقدر عاقلند آنهایی که در عشق احمق اند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204059')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>60. <span id="204060">آزادی ما از نقطه ای شروع می‌شود که آزادی دیگران پایان می‌یابد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204060')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>61. <span id="204061">شعر، ارکستر پرهیجانی است که آواز طبیعت و بشر و حوادث را به هم آمیخته است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204061')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>62. <span id="204062">لبخند زن در دو جا آسمانی و فرشته مانند است: یکی، هنگامی‌که برای اولین بار با لبخند به معشوق خود می‌گوید دوستت دارم و دیگر، هنگامی‌که برای اولین بار به روی نوزادش لبخند می‌زند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204062')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>63. <span id="204063">به کسی عشق بورز که لایق عشق تو باشد نه تشنه عشق … چون تشنه عشق روزی سیراب می‌شود …</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204063')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>64. <span id="204064">در میان جانداران، هیچ حیوانی که برای کبوتر شدن به دنیا آمده، کرکس نخواهد شد؛ مگر انسان که کبوتر زاده می‌شود و ممکن است کرکس شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204064')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>65. <span id="204065">بدیهای اجتماع به دست ما ساخته شده است و به جای ناله بهتر است درصدد رفع آن برآییم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204065')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>66. <span id="204066">خوشبخت کسی است که خداوند دلی پر احساس به او ارزانی کرده باشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204066')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>67. <span id="204067">انسان در جهان همچون شبح سرگردانی است که در عبور از این راه حیاتی، سایه ای از خود به یادگار نمی‌گذارد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204067')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>68. <span id="204068">هیچ چیز به اندازه رویا در ساختن آینده موثر نیست، مدینه‌های فاضله ی امروز، واقعیت‌های فردا هستند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204068')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>69. <span id="204069">هر چه از کوه بالاتر رویم، چشم انداز گسترده تری را می‌بینیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204069')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>70. <span id="204070">آدم‌ها تهی از توانایی نیستند، تهی از اراده اند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204070')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>71. <span id="204071">عشق عبارت است از وجود یک روح در دو کالبد؛ عاملی است که دو تن را مبدل به فرشته واحدی می‌کند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204071')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>72. <span id="204072">لطف زن مانند ماسه خطرناک است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204072')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>73. <span id="204073">امید در زندگانی بشر به همان میزان اهمیت دارد که بال برای پرندگان.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204073')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>74. <span id="204074">گاهی کار فقر و بیچارگی به جایی می‌رسد که رشته‌ها و پیوندها را می‌گسلد. این مرحله ای است که تیره بختان و سیاهکاران چون بدانجا رسند، درهم آمیخته و در یک کلمه که کلمه شومی‌است، شریک می‌شوند؛ این کلمه «بینوایان» است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویکتور هوگو','204074')"/></center></spch>
+<script>
+	onLoad()
+</script>

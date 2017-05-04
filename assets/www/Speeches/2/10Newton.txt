@@ -1,0 +1,41 @@
+﻿<center><img src="./Pic/Newton.jpg"/>
+<div style="font-size:15px;">فیزیکدان، ریاضیدان، ستاره شناس، فیلسوف انگلستان</div></center>
+<hr width="90%" color="Black">
+<spch><p>1. <span id="201001">مغز بشر در زمان خود می تواند بهشتی از جهنم و دوزخی از بهشت به وجود بیاورد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('نیوتن','201001')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>2. <span id="201002">تمام ذرات جهان دارای نیروی مرموزی به نام جاذبه هستند كه باعث جذب آنها به یكدیگر می شود و به طور معمول ذرات هر توده مجذوب مركز آن و توده ذكر شده، خود، مجذوب توده دیگری است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('نیوتن','201002')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>3. <span id="201003">دانش كلی مانند خلیجی است كه من و همكارانم تنها چند دانه ریگ جالب از این پهنای گسترده برداشته ایم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('نیوتن','201003')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>4. <span id="201004">شاید مانند كودكی باشیم كه در كنار دریا با سنگ ریزه و صدفهای زیبا بازی می كند، اما بی خبر از آنیم كه دریایی بس بزرگ و اقیانوسی بیكران در مقابل دیدگانمان وجود دارد كه در اعماق آن اسرار بزرگ و شگفت انگیزی نهفته است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('نیوتن','201004')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>5. <span id="201005">آنچه می دانیم یك قطره است، آنچه نمی دانیم یك اقیانوس.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('نیوتن','201005')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>6. <span id="201006">در حیرتم كه وجود ناچیز خودم را در مقابل عظمت آفریدگان و این دنیای بزرگی كه در آن زندگی می كنم، به چه تشبیه كنم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('نیوتن','201006')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>7. <span id="201007">كسی كه فكر نمی كند، به ندرت دم فرو می بندد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('نیوتن','201007')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>8. <span id="201008">حتی حقیرترین موجودات نیز از نعمت های خداوند بی بهره نیستند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('نیوتن','201008')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>9. <span id="201009">تا آنجا كه ممكن است، امروز كارت را خوب انجام بده، باشد كه فردا هم قدمی رو به جلو برداری و كارت را بهتر انجام دهی.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('نیوتن','201009')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>10. <span id="2010010">من مشهور نشدم مگر به واسطه كار و كوشش و اگر از عملی خسته می شدم، تفریح و رفع خستگی را در اشتغال به كار دیگری جستجو می كردم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('نیوتن','2010010')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>11. <span id="2010011">من نمی دانم كه جهان مرا چه می داند؟ اما من خود را مانند كودكی می بینم كه در كنار ساحل سرگرم بازی است و گاه و بیگاه با یافتن سنگ ریزه ها و یا گوش ماهیهای زیباتر و صافتر از حد معمول، خوشحال می شود؛ حال آنكه اقیانوس بزرگ حقیقت همچنان كشف نشده پیش رویم گسترده است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('نیوتن','2010011')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>12. <span id="2010012">هر كنشی، واكنشی برابر دارد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('نیوتن','2010012')"/></center></spch>
+<script>
+	onLoad()
+</script>

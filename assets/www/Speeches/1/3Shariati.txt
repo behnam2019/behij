@@ -1,0 +1,203 @@
+﻿<center><img src="./Pic/Shariati.jpg"/>
+<div style="font-size:15px;">نویسنده، جامعه شناس، تاریخ شناس، پژوهشگر دینی  و نظریه پرداز</div></center>
+<hr width="90%" color="Black">
+<spch><p>1. <span id="10301">دیروز همسایه ام از گرسنگی مرد ، در عزایش گوسفندها سربریدند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','10301')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>2. <span id="10302">از خداوند چیزی برایت میخواهم که جز خدا در باور هیچکس نگنجد!</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','10302')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>3. <span id="10303">در بیکرانه زندگی دو چیز افسونم کرد ، آبی آسمان که می بینم و میدانم نیست و خدایی که نمی بینم و میدانم که هست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','10303')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>4. <span id="10304">روزگاریست که شیطان فریاد می زند: آدم پیدا کنید! سجده خواهم کرد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','10304')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>5. <span id="10305">در دردها دوست را خبر نکردن ، خود نوعی عشق ورزیدن است!</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','10305')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>6. <span id="10306">گاهی گمان نمیکنی ولی میشود ، گاهی نمی شود که نمی شود! گاهی هزار دوره دعا بی اجابتست! گاهی نگفته قرعه به نام تو می شود! گاهی گدای گدایی و بخت یار نیست! گاهی تمام شهر گدای تو می شود!</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','10306')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>7. <span id="10307">ساعتها را بگذارید بخوابند! بیهوده زیستن را نیاز به شمردن نیست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','10307')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>8. <span id="10308">مشکلات انسانهای بزرگ را متعالی می سازد و انسانهای کوچک را متلاشی.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','10308')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>9. <span id="10309">خدایا،به من توفیق تلاش در شکست،صبر در نومیدی،رفتن بی همراه،جهاد بی سلاح،کار بی پاداش،فداکاری در سکوت،دین بی دنیا،عظمت بی نام،خدمت بی نان،ایمان بی ریا،خوبی بی نمود،مناعت بی غرور،عشق بی هوس،تنهایی در انبوه جمعیت،و دوست داشتن بی آنکه دوست بداند،روزی کن.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','10309')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>10. <span id="103010">بغض بزرگترین نوع اعتراض در برابر آدم هاست اگر بشکنه دیگه اعتراض نیست التماسه.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103010')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>11. <span id="103011">زخمی بر پهلویم هست روزگار نمک می پاشد و من پیچ و تاب میخورم و همه گمان میکنند که من میرقصم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103011')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>12. <span id="103012">نامم را پدرم انتخاب کرد ، نام خانوادگی ام را یکی از اجدادم! دیگر بس است ، راهم را خودم انتخاب می کنم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103012')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>13. <span id="103013">دلی که ازبی کسی تنها است،هرکس رامیتواندتحمل کند.!</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103013')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>14. <span id="103014">به دکتر شریعتی گفتند استاد سیگار طول زندگی رو کوتاه میکنه ، دکتر در جواب گفتند من به عرض زندگی فکر میکنم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103014')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>15. <span id="103015">در دشمنی دورنگی نیست ، کاش دوستانم هم در موقع خود چون دشمنان بی ریا بودند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103015')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>16. <span id="103016">خیلی اوقات آدم از آن دسته از چیزهای بد دیگران ابراز انزجار می کند که در خودش وجود دارد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103016')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>17. <span id="103017">دل های بزرگ و احساس های بلند، عشق های زیبا و پرشکوه می آفرینند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103017')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>18. <span id="103018">چه رنجی است لذت ها را تنها بردن و چه زشت است زیبایی ها را تنها دیدن و چه بدبختی آزاردهنده ای است تنها خوشبخت بودن در بهشت تنها بودن سخت تر از کویر است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103018')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>19. <span id="103019">اکنون تو با مرگ رفته ای و من اینجا تنها به این امید دم میزنم که با هر نفس گامی به تو نزدیک تر میشوم . این زندگی من است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103019')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>20. <span id="103020">وقتی خواستم زندگی کنم، راهم را بستند. وقتی خواستم ستایش کنم، گفتند خرافات است. وقتی خواستم عاشق شوم گفتند دروغ است. وقتی خواستم گریستن، گفتند دروغ است. وقتی خواستم خندیدن، گفتند دیوانه است. دنیا را نگه دارید، میخواهم پیاده شوم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103020')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>21. <span id="103021">اگر قادر نیستی خود را بالا ببری همانند سیب باش تا با افتادنت اندیشه‌ای را بالا ببری.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103021')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>22. <span id="103022">به سه چیز تکیه نکن: غرور ، دروغ و عشق. آدم با غرور می تازد، با دروغ می بازد و با عشق می میرد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103022')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>23. <span id="103023">رقص اشکهایم را بر گونه هایم در اینه می نگرم و صدای عشق بازی باد را بر روی برگهای درخت حس می کنم و خدا را می خوانم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103023')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>24. <span id="103024">درد من حصار برکه نیست، درد من زیستن با ماهیانی است که فکر دریا به ذهنشان خطور نکرده!</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103024')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>25. <span id="103025">عمری گداختن از غم نبودن کسی که، تا بود، از غم نبودن تو می گداخت.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103025')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>26. <span id="103026">کسی که خواب باشد را اگر صدا کنیم بیدار میشود اما هستند کسانی که خود را به خواب زده اند و با هیچ صدایی بیدار نمیشوند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103026')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>27. <span id="103027">من به اندازه ی یک ابر دلم می گیرد،وقتی از پنجره بر پوچی افکار جهان می نگرم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103027')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>28. <span id="103028">صحیفه، کتاب جهاد در تنهایی است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103028')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>29. <span id="103029">خداوندا! به هر آنکس که دوست میداری،بیاموز که عشق از زندگی کردن برتر است و به هر آنکس که بیشتر دوست میداری، بچشان که دوست داشتن ازعشق والاتراست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103029')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>30. <span id="103030">مادرم می گفت که عاشقی یک شب است و پشیمانی هزار شب اما حالا هزار شب است که پشیمانم که چرا یک شب عاشقی نکردم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103030')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>31. <span id="103031">اگر تنها ترین تنهایان شوم باز هم خدا هست او جانشین تمام نداشتنهای من است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103031')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>32. <span id="103032">وارد کردن علم و صنعت ، در اجتماع بی ایمان و بدون ایدوئولوژی مشخص ، همچون فرو کردن درخت های بزرگ و میوه دار است در زمین نامساعد در فصل نا مناسب.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103032')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>33. <span id="103033">شرافت مرد هم چون بکارت یک دختر است اگر یکبار لکه دار شد دیگر جبران پذیر نیست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103033')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>34. <span id="103034">مذهب،اگر پیش از مرگ به کار نیاید،پس از مرگ به هیچ کار نخواهد آمد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103034')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>35. <span id="103035">من به باکره بودن قلب برخی فاحشه ها و فاحشه بودن ذهن برخی باکره ها ایمان دارم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103035')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>36. <span id="103036">آنکه معترض نیست، منتظر نیست و معترض، منتظر نیست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103036')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>37. <span id="103037">خدایا !مرا هرگز مراد بیشعور ها و محبوب نمک های میوه مگردان.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103037')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>38. <span id="103038">خدایا ! بر اراده، دانش ، عصیان ، بی نیازی ، حیرت ، لطافت روح ، شهامت و تنها ئی ام بیفزای.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103038')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>39. <span id="103039">گاه در صبر و سکوت بر سر درد ، قدرتی است که در بیتابی فریاد نیست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103039')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>40. <span id="103040">خدایا در برابر هر آنچه انسان ماندن را به تباهی می کشاند مرا با «نداشتن » و «نخواستن » روئین تن کن.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103040')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>41. <span id="103041">ای که جامه ی ابراهیم بر تن کرده ای ، اینها تو را به اسماعیل پرستی می کشانند تا خود بر تو چیره باشند ، سرت را به بند آرند ، جیبت را خالی کنند و عقلت را فلج سازند و به سیاهی کشانند!</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103041')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>42. <span id="103042">در کشور من مردم با نفرت بیشتری به صحنه اعدام دو عاشق نگاه میکنند تا صحنه اعدام! زیستن با این مردمان دردناک است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103042')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>43. <span id="103043">انسان اگر انسان دیگری را بکشد، آدم می ماند، هر چند قاتل!؛ لیکن آدمی که در مقابل آدمی دیگر خم می شود، یا چاپلوسی می کند، دیگر آدم نیست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103043')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>44. <span id="103044">کسی آینده دارد که فردایش با امروزش متفاوت است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103044')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>45. <span id="103045">در تشیع علوی، دوره‌ی غیبت است که دوره‌ی دمکراسی است و برخلاف نظام نبوت و امامت، که از بالا تعیین می‌شود، رهبری جامعه در عصر غیبت، بر اصل تحقیق و تشخیص و انتخاب و اجماع مردم مبتنی است و قدرت حاکمیت از متن مردم سرچشمه می‌گیرد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103045')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>46. <span id="103046">سرنوشت تو متنی است که اگر ندانی دست های نویسندگان، اگر بدانی ، خود می توانی نوشت.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103046')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>47. <span id="103047">جهان را ما ، نه آنچنانکه واقعا هست می بینیم ، جهان را ما آنچنانکه ما واقعا هستیم ، می بینیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103047')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>48. <span id="103048">«بشر» یک بودن است و «انسان» یک شدن.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103048')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>49. <span id="103049">مسئولیت زاده توانایی نیست ، زاده آگاهی و زاده انسان بودن است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103049')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>50. <span id="103050">پیروزی یکروزه به دست نمی آید ، اما اگر خود را پیروز بشماری ، یکباره از دست میرود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103050')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>51. <span id="103051">انسان به میزانی که می اندیشد ، انسان است، به میزانی که می آفریند انسان است نه به میزانی که آفریده های دیگران را نشخوار می کند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103051')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>52. <span id="103052">انتظار آمادگی است نه وادادگی.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103052')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>53. <span id="103053">خدایا! عقیده مرا از دست عقده ام مصون بدار.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103053')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>54. <span id="103054">آنگاه که کمیت عقل می لنگند، نیایش بلند ترین قله تعبیر را در پرواز عشق در شب ظلمانی عقل پیدا می کند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103054')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>55. <span id="103055">اسلام علی بر این سه پایه استوار است : مکتب، وحدت ، عدالت.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103055')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>56. <span id="103056">توده مردم به یک آگاهی نیاز دارند و روشنفکر به ایمان.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103056')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>57. <span id="103057">چه فاجعه ای است که باطل به دستی عقل را شمشیر می گیرد و به دستی شرع را سپر.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103057')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>58. <span id="103058">تقلید نه تنها با تعقل سازگار نیست ، بلکه اساسا کار عقل این است که هرگاه نمی داند ، از آنکه می داند تقلید می کند و لازمه ی عقل این است که در این جا خود را نفی نماید و عقل آگاه را جانشین خود کند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103058')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>59. <span id="103059">لازمه ی توحید خداوند ، توحید عالم است و لازمه ی توحید عالم توحید انسان است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103059')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>60. <span id="103060">وقتی عشق فرمان می دهد ، محال سر تسلیم فرو می آورد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103060')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>61. <span id="103061">جهل، نفع و ترس عوامل انحراف بشری.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103061')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>62. <span id="103062">از تنهایی به میان مردم می گریزم و از مردم به تنهایی پناه برم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103062')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>63. <span id="103063">آنان که « عشق » را در زندگی «خلق » جانشین « نان » می کنند، فریبکارانند، که نام فریبشان را « زهد» گذاشته اند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103063')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>64. <span id="103064">فلسفه زندگی انسان امروز در این جمله خلاصه می شود : فدا کردن آسایش زندگی برای ساختن وسایل آسایش زندگی.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103064')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>65. <span id="103065">شهید انسانی است که در عصر نتوانستن و غلبه نیافتن ، با مرگ خویش بر دشمن پیروز می شود و اگر دشمنش را نمی کشد رسوا می کند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103065')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>66. <span id="103066">آگاهی اگر چه به رنج ، ناکامی و بدبختی منجر شود ، طلیعه راه و طلیعه روشنایی ، طلیعه نجات بشریت است ،… از جهلی که خوشبختی ، آرامش ، یقین و قاطعیت میآورد ، هیچ چیز ساخته نیست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('دکتر علی شریعتی','103066')"/></center></spch>
+<script>
+	onLoad()
+</script>

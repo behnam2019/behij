@@ -1,0 +1,215 @@
+﻿<center><img src="./Pic/Shekspir.jpg"/>
+<div style="font-size:15px;">نویسنده مشهور انگلیسی</div></center>
+<hr width="90%" color="Black">
+<spch><p>1. <span id="20101">آن كس كه جرات انجام كارهای شایسته را دارد، انسان است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','20101')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>2. <span id="20102">من همیشه تمایل دارم كه از اشخاص نجیب پیروی كرده و از آنان چیز بیاموزم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','20102')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>3. <span id="20103">از دست دادن امیدی پوچ و محال، خود موفقیت و پیشرفتی بزرگ است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','20103')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>4. <span id="20104">مردم بینوا و تیره بخت، درمانی جز امید ندارند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','20104')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>5. <span id="20105">صورت شما كتابی است كه مردم می توانند از آن چیزهای عجیب بخوانند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','20105')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>6. <span id="20106">آدم تبهكار می رود، ولی زیانهایش بعد از او می ماند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','20106')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>7. <span id="20107">دیوانه خودش را عاقل می پندارد و عاقل هم می داند كه دیوانه ای بیش نیست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','20107')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>8. <span id="20108">حقیقت را همانطور که هست، بپذیر.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','20108')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>9. <span id="20109">هنگامی كه فقر از در وارد شود، عشق از پنجره می گریزد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','20109')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>10. <span id="201010">آنچه را داریم و از آن لذت می بریم، چنان كه باید ارج نمی نهیم و قدر آن را نمی شناسیم و چون از دست برود به ارزش آن پی می بریم. در این هنگام است كه به این حقیقت دست می یابیم كه تا مالك چیزی هستیم از مالكیت خود بی خبریم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201010')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>11. <span id="201011">بودن یا نبودن؛ مساله اینست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201011')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>12. <span id="201012">دنیا مانند یك تماشاخانه است؛ هر كس نقش خود را بازی می كند و سپس مخفی می شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201012')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>13. <span id="201013">دنیا یكسره صحنه بازی است و همه بازیگران آن به نوبت می آیند و می روند و نقش خود را به دیگری می سپارند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201013')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>14. <span id="201014">گریه ما در هنگام تولد از آن است كه به صحنه بزرگ جنون و حماقت وارد شده ایم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201014')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>15. <span id="201015">زنبور هر قدر زیاد باشد، گل از آن بیشتر است و دلهای ماتم زده هر اندازه باشند، قلبهای شاد زیادترند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201015')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>16. <span id="201016">تشویق ها، رویاها، آه ها، آرزوها و اشكها از همراهان جدایی ناپذیر عشق اند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201016')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>17. <span id="201017">عشق در حقیقت عذاب است، ولی محروم بودن از عشق، مرگ است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201017')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>18. <span id="201018">دشمنان بسیار دارید كه نمی دانند چرا دشمن شما هستند؛ همچون سگهای ولگرد هنگامی كه رفیقشان بانگ بردارد، آنان نیز بانگ بر می دارند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201018')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>19. <span id="201019">كینه پنهان نمی ماند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201019')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>20. <span id="201020">بالاتر از همه چیز این است كه با خودمان صادق باشیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201020')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>21. <span id="201021">چیزی كه در زن مرا تسخیر می كند مهربانی اوست، نه روی زیبایش؛ من زنی را بیشتر دوست دارم كه مهربانتر باشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201021')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>22. <span id="201022">یك زن چیزی جز شوهر نمی خواهد، ولی وقتی به او رسید همه چیز می خواهد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201022')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>23. <span id="201023">چاپلوسی خوراك ابلهان است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201023')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>24. <span id="201024">هرگز از شنیدن آنچه كه شرافتمندانه انجام داده ای، شرم نداشته باش.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201024')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>25. <span id="201025">باید ترسید؛ آنگاه كه مستبدان مهربان می شوند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201025')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>26. <span id="201026">آنان كه پیروز می شوند، همان كسانی هستند كه از مشورت دوستان بهره می برند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201026')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>27. <span id="201027">به همه عشق بورز، به تعداد كمی اعتماد كن و به هیچ كس بدی نكن.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201027')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>28. <span id="201028">عده ای بزرگ زاده می شوند، عده ای بزرگی را به دست می آورند و عده ای بزرگی را بدون آنكه بخواهند با خود دارند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201028')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>29. <span id="201029">برای آنچه كه انجام داده ای، غم خوردن بی فایده است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201029')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>30. <span id="201030">اگر شرافتم را از دست بدهم، وجودم را از دست داده ام.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201030')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>31. <span id="201031">شرافتم را از من بگیر و بنگر كه چگونه زندگی من تباه می شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201031')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>32. <span id="201032">عادل باش و هراسی به دل راه نده.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201032')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>33. <span id="201033">عشق ما را می كشد تا دوباره حیاتمان بخشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201033')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>34. <span id="201034">از تیز ترین چاقو هم اگر استفاده نشود، كند می گردد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201034')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>35. <span id="201035">فصیح ترین زبان، عمل است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201035')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>36. <span id="201036">نصایح دوستانه، پایان بخش اندوه ماست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201036')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>37. <span id="201037">كوره را برای سوزاندن دشمنان خود آنقدر شعله ور نكن كه شعله اش خودت را بسوزاند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201037')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>38. <span id="201038">داشتن فرزندانی ناسپاس بسیار بدتر از دندان تیز افعی است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201038')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>39. <span id="201039">سر بر گریبان فرو بر، از دل خویش بپرس آنچه را كه می داند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201039')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>40. <span id="201040">كدامین كس عاشق گشته، لیك نه در نگاه نخست؟</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201040')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>41. <span id="201041">در آن زمان كه به شدت احساس تنهایی می كنی، مطمئن باش كه یكی برای دیدنت لحظه شماری می كند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201041')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>42. <span id="201042">هیچ چیز خوب یا بد نیست، بلكه شیوه اندیشیدن ما است كه آنها را نیك یا ناپسند جلوه گر می كند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201042')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>43. <span id="201043">یقین است كه رفتار حكیمانه با وضع جاهلانه همچون بیماری از یك شخص به شخص دیگر سرایت می كند؛ پس لازم است كه مردمان مراقب انتخاب همنشینان خود باشند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201043')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>44. <span id="201044">من وقت را تلف كرده ام و اینك وقت، مرا تلف می كند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201044')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>45. <span id="201045">تا به حال هیچ فیلسوفی قدم به عرصه خاك نگذاشته كه بتواند دندان درد را تاب آورد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201045')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>46. <span id="201046">عشق حقیقی هیچگاه یكنواخت و آرام پیش نمی رود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201046')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>47. <span id="201047">آنان كه عشق خود را آشكار نكنند معشوق نخواهند بود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201047')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>48. <span id="201048">كسی را كه دوست داری رهایش كن؛ اگر سوی تو بازگشت از آن توست و اگر بازنگشت، از ابتدا برای تو نبوده است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201048')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>49. <span id="201049">وجود ما به منزله باغی است كه اراده ی ما باغبان آن است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201049')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>50. <span id="201050">دوستانی كه داری و آنان را آزموده ای، با قلاب های پولادین به جان و دل خود پیوسته نگاه دار.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201050')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>51. <span id="201051">دوستی نعمت گرانبهایی است، خوشبختی را دو برابر می كند و بدبختی را كاهش می دهد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201051')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>52. <span id="201052">یك بار دیگر، دوستان عزیز، یك بار دیگر برق آسا حمله كنید!</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201052')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>53. <span id="201053">شكوه دنیوی همچون دایره ای است بر سطح آب كه لحظه به لحظه به بزرگی آن افزوده می شود و سپس در نهایتِ بزرگی، هیچ می شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201053')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>54. <span id="201054">بر این باورم كه سرنوشت انسان را تنها محبت مشخص می كند و بس.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201054')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>55. <span id="201055">لبخند می تواند جراحت اخمی را بهبود بخشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201055')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>56. <span id="201056">به شخصی كه به هیچ كس اعتماد ندارد اطمینان نداشته باشید!</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201056')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>57. <span id="201057">مرگ را فراخوان و فتنه ی خفته جنگ را بیدار كن.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201057')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>58. <span id="201058">داشتن دانش بهتر از داشتن ثروت است، اما نداشتن ثروت بدتر از نداشتن دانش است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201058')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>59. <span id="201059">دیرگاهی كه مرگش فرارسید، ذره ذره از پیكرش ستاره بساز! آنگاه طاق نیلگون آسمان را چراغانی خواهد كرد تا جهان عاشق به شب تبدیل شود و هیچ انسانی به ستایش خورشید خودپرست ننشیند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201059')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>60. <span id="201060">عشق و فروتنی، جامه ای برازنده ی مرشدی پرهیزگار باشد، نه سزاوار جاه طلبی مغرور.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201060')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>61. <span id="201061">من از خوشبختی های این جهان بهرمند گردیده ام زیرا در زندگی عاشق شده ام.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201061')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>62. <span id="201062">فقر در كوی هنرمندان و رنجبران راه ندارد و شادمانی در خانه ای است كه مهربانی در آنجا حكومت می كند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201062')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>63. <span id="201063">فروتنی، نردبان بزرگی و بلندی است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201063')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>64. <span id="201064">افرادی كه توانایی لبخند زدن و خندیدن دارند، موجوداتی برتر هستند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201064')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>65. <span id="201065">عشق، بیشتر گونه ای عذاب است، اما بی بهره بودن از آن مرگ است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201065')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>66. <span id="201066">سقوط ژرفتر، آن گونه كه رایج است، به خوشبختی بیشتر منتهی می شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201066')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>67. <span id="201067">صبر عبارت است از حفظ آرامش برای رسیدن به نتیجه.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201067')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>68. <span id="201068">هیچ چیز وجود ندارد، مگر اندیشه ای كه آن را می سازد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201068')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>69. <span id="201069">زمانی كه گفتم تا آخر عمر مجرد می مانم نمی دانستم آنقدر عمر می كنم كه ازدواج كنم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201069')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>70. <span id="201070">اشتباه را محكوم كن نه آنكه را اشتباه از او سر زده است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('ویلیام شکسپیر','201070')"/></center></spch>
+<script>
+	onLoad()
+</script>

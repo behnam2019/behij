@@ -1,0 +1,101 @@
+﻿<center><img src="./Pic/Cherchil.jpg"/>
+<div style="font-size:15px;">نخست وزیر سابق بریتانیا</div></center>
+<hr width="90%" color="Black">
+<spch><p>1. <span id="20201">عیب جامعه این است که همه می خواهند آدم مهمی باشند و هیچ کس نمی خواهد فرد مفیدی باشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','20201')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>2. <span id="20202">با خوردن حرف هرگز سوء هاضمه نمی گیرید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','20202')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>3. <span id="20203">بزرگترین درس زندگی این است که گاهی احمقها هم درست می گویند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','20203')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>4. <span id="20204">آیین دموکراسی بدترین شکل حکومت است. با وجود این از تمام آیین هایی که تاکنون آزمایش شده بهتر است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','20204')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>5. <span id="20205">سیاستمدار کسی است که حوادث فردا و یک ماه و یکسال بعد را پیش بینی کند و سپس بتواند دلایلی بیاورد که چرا اتفاق نیفتاد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','20205')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>6. <span id="20206">آدم بدبین، سختی را در هر فرصتی می بیند، آدم خوش بین فرصت را در هر سختی.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','20206')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>7. <span id="20207">تا هنگامی که پایانهای بزرگ در جهان وجود دارد، می دانیم که روح و معنی هستیم نه جسم و جانور.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','20207')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>8. <span id="20208">اشخاص همیشه گناه را به گردن شرایط و بی نظمی می اندازند؛ من به شرایط و بی نظمی باور ندارم. مردان کامیاب، شرایط و نظم را جستجو می کنند و آن را می آفرینند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','20208')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>9. <span id="20209">امپراتورهای آینده، امپراتورهای فکر و اندیشه اند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','20209')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>10. <span id="202010">شجاعت را به حق در صدر صفات برجسته انسان دانسته اند... زیرا این صفت تکیه گاه صفت های دیگر است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','202010')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>11. <span id="202011">کافی نیست حداکثر تلاش خود را بکنیم و در بهترین حد خود ظاهر شویم، گاهی لازم است کاری را در حد کفایت انجام دهیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','202011')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>12. <span id="202012">موفقیت، توانایی رفتن از شکستی به شکست دیگر بدون از دست دادن شور و حرارت است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','202012')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>13. <span id="202013">ماجراجو و خطرناک باشید، با روزگار به مقابله برخیزید و ترس به خود راه ندهید؛ زیراهر چه پیش آید خوش آید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','202013')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>14. <span id="202014">از مخالفت نهراسید؛ بادبادک تنها زمانی می تواند بالا رود که با باد مخالف مواجه شود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','202014')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>15. <span id="202015">همه از مردن در راه باورشان سخن می گویند، اما هیچ کس از کشته شدن در راه باورش دم نمی زند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','202015')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>16. <span id="202016">حقیقت، انکارناپذیر است. بدخواهی ممکن است به آن حمله کند. ممکن است نادانی آن را به مسخره بگیرد، اما سرانجام حقیقت پایدار خواهد بود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','202016')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>17. <span id="202017">من شخصأ دوست دارم بیاموزم، اگرچه همیشه نفرت دارم از این که به من بیاموزند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','202017')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>18. <span id="202018">قرنهای تاریک باز خواهد گشت، روزگار حجر بر بالهای درخشان دانش باز خواهد گشت، چه بسا امروز برکت های بی شمار به بشر ارزانی داشته تا یک روز مایه ی نابودی وی شود، آگاه باش! فرصت از دست نرود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','202018')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>19. <span id="202019">بدون پول، آرامش به دشواری به دست خواهدآمد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','202019')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>20. <span id="202020">بدون تردید، افراد بشر حاضر نیستند که همگی بطور یکسان و برابر از گرسنگی بمیرند و بی گمان برای آخرین تکه نانی که می ماند و باید تقسیم شود، درگیری شدیدی به وجود خواهد آمد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','202020')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>21. <span id="202021">مهمترین کار ما این نیست که ببینیم در دور دستهای مبهم و ناپیدا چه چیزهایی وجود دارد. کار ما این است که به آنچه آشکارا در پیش رو داریم، بپردازیم.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','202021')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>22. <span id="202022">شهامت چیزی است که باعث می شود انسان بایستد و سخن بگوید. البته این هم که انسان بنشیند و گوش دهد، شهامت است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','202022')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>23. <span id="202023">بهای هیچ چیز گزاف تر از انتقامجویی [ =کینه کِشی ] نیست.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','202023')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>24. <span id="202024">بدون انگیزه و شوق، همه ی خوبیهای دیگر، مفهوم خود را از دست خواهند داد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','202024')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>25. <span id="202025">ما از جهانیان، هیچ نمی خواهیم، جز احترام.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','202025')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>26. <span id="202026">تجربه همیشه به سود انسان نیست، زیرا، هیچ رویدادی دوبار به یک شکل رخ نمی‌دهد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','202026')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>27. <span id="202027">درستکاری اهمیت دارد، ولی روراستی نیز مهم است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','202027')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>28. <span id="202028">من آدم خوشبینی هستم؛ فکر نمی کنم اگر جز این باشم، حال و روز ام بهتر از این باشد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','202028')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>29. <span id="202029">من شخصاً همیشه آماده ی چیز یاد گرفتن هستم، هر چند همیشه هم دوست ندارم به من چیزی یاد بدهند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','202029')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>30. <span id="202030">سرسخت و سمج و پایدار باشید و هرگز تسلیم نشوید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','202030')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>31. <span id="202031">رو به پیشرفت، یعنی دگرگونی، رو به تکامل، یعنی دگرگونی های بسیار.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','202031')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>32. <span id="202032">هرگز ناامید نشو.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('چرچیل','202032')"/></center></spch>
+<script>
+	onLoad()
+</script>

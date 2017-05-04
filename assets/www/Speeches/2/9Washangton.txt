@@ -1,0 +1,35 @@
+﻿<center><img src="./Pic/Washangton.jpg"/>
+<div style="font-size:15px;">از رهبران انقلاب آمریکا و نخستین رئیس جمهور آمریکا</div></center>
+<hr width="90%" color="Black">
+<spch><p>1. <span id="20901">وقتی نهال آزادی ریشه گرفت، به سرعت رشد و نمو می كند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('جورج واشنگتن','20901')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>2. <span id="20902">كسانی كه حاضر نیستند برای آزادی بهایی بپردازند، لیاقت آزادی را ندارند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('جورج واشنگتن','20902')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>3. <span id="20903">نسبت به همه مهربان و صمیمی باش و به یاد داشته باش كه جامه نو به انسان شخصیت نمی دهد، بلكه مانند پر مرغان زیباست كه آنها را می پوشاند و به آنها زیبایی می دهد.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('جورج واشنگتن','20903')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>4. <span id="20904">نهال دوستی حقیقی آهسته رشد می كند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('جورج واشنگتن','20904')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>5. <span id="20905">آماده شدن برای جنگ یعنی نگهداری صلح.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('جورج واشنگتن','20905')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>6. <span id="20906">وجدان مانند آینه است كه نه چاپلوسی می كند و نه تحقیر می نماید.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('جورج واشنگتن','20906')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>7. <span id="20907">از قمار دوری كن؛ زیرا قمار بازی كار شیطان، كودك حرص و آز، برادر بی عدالتی و بالاخره پدر فرومایگی است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('جورج واشنگتن','20907')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>8. <span id="20908">محبت حقیقی شبیه گیاهی است كه آهسته رشد می كند و مادام كه در برابر مشكلات و سختیها پایداری نكند، سزاوار اینكه آن را محبت حقیقی بخوانند، نخواهد بود.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('جورج واشنگتن','20908')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>9. <span id="20909">در وظیفه خود ایستادگی كردن و خاموش ماندن، بهترین پاسخ به تهمت است.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('جورج واشنگتن','20909')"/></center>
+<hr width="90%" color="#F93"></spch>
+<spch><p>10. <span id="209010">نود و نه درصد همه‌ی شكست‌ها از آن كسانی است كه به آوردن عذر و بهانه خو گرفته‌اند.</span></p>
+<center><img style="border-style: none" src="./Send1.png" onclick="Ersal('جورج واشنگتن','209010')"/></center></spch>
+<script>
+	onLoad()
+</script>
